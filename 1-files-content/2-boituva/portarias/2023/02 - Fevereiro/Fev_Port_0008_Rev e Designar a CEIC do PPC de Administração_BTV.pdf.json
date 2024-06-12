@@ -1,0 +1,189 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "                                                     MINISTÉRIO DA EDUCAÇÃO\n                                                                           MINISTÉRIO DA EDUCAÇÃO\n                          INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n                                                                                          INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n                                                         CÂMPUS BOITUVA\n                                                                       CÂMPUS BOITUVA\n\n\n                              PORTARIA Nº 8/2023 - DRG/BTV/IFSP DE 27 DE FEVEREIRO DE 2023\n                                                                                          PORTARIA Nº 8/2023 - DRG/BTV/IFSP DE 27 DE FEVEREIRO DE 2023\n\n\nO DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE\nSÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015 e\nconforme a Portaria 2582 de 17 de julho de 2020,\n\n\nRESOLVE:\n\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a presidência do primeiro, compor a\nComissão de Elaboração e Implementação do PPC de Administração do Câmpus Boituva.\n\n\n                               Servidor                   Representação                       Mandato\n\n\n                          Eline Gomes de                                                   11.05.2021 à\n                            Oliveira Zioli           Coordenadora do curso            11.05.2023 (primeiro\n                                                                                             mandato)\n\n\n                         Flávio Aparecido           Representante formação                 11.05.2021 à\n                                Pontes                      profissional              11.05.2023 (primeiromandato)\n                          Israel Mendes da          Representante formação                 11.05.2021 à\n                                 Silva                      profissional              11.05.2023 (primeiro\n                                                                                             mandato)\n                       Jair Manoel Casquel          Representante formação                 01.03.2023 à\n                                Júnior                      profissional              01.03.2025 (primeiro\n                                                                                             mandato)\n                        Luciano Bastos de           Representante formação                 01.03.2023 à\n                              Carvalho                      profissional              01.03.2025 (primeiro\n                                                                                             mandato)\n                           Andreza Silva            Representante formação                 11.05.2021 à\n                                Areão                       profissional              11.05.2023 (primeiro\n                                                                                             mandato)\n                            Eduardo Luis            Representante formação                 11.05.2021 à\n                               Estrada                          geral                 11.05.2023 (primeiromandato)\n                         Sâmara Rodrigues           Representante formação                 11.05.2021 à\n                              de Ataíde                                               11.05.2023 (primeiro\n                                                                geral                        mandato)\n\n\n                        Eunice Prudenciano                                                 01.03.2023 à\n                              de Souza              Representante formação            01.03.2025 (primeiro\n                                                                geral                        mandato)",
+                "md": "# MINISTÉRIO DA EDUCAÇÃO\n\n# INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n\n# CÂMPUS BOITUVA\n\n# PORTARIA Nº 8/2023 - DRG/BTV/IFSP DE 27 DE FEVEREIRO DE 2023\n\nO DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015 e conforme a Portaria 2582 de 17 de julho de 2020,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a presidência do primeiro, compor a Comissão de Elaboração e Implementação do PPC de Administração do Câmpus Boituva.\n\n|Servidor|Representação|Mandato|\n|---|---|---|\n|Eline Gomes de Oliveira Zioli|Coordenadora do curso|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Flávio Aparecido Pontes|Representante formação profissional|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Israel Mendes da Silva|Representante formação profissional|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Jair Manoel Casquel Júnior|Representante formação profissional|01.03.2023 à 01.03.2025 (primeiro mandato)|\n|Luciano Bastos de Carvalho|Representante formação profissional|01.03.2023 à 01.03.2025 (primeiro mandato)|\n|Andreza Silva Areão|Representante formação profissional|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Eduardo Luis Estrada|Representante formação geral|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Sâmara Rodrigues de Ataíde|Representante formação geral|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Eunice Prudenciano de Souza|Representante formação geral|01.03.2023 à 01.03.2025 (primeiro mandato)|",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 119,
+                        "width": 121
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "MINISTÉRIO DA EDUCAÇÃO",
+                        "md": "# MINISTÉRIO DA EDUCAÇÃO"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO",
+                        "md": "# INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "CÂMPUS BOITUVA",
+                        "md": "# CÂMPUS BOITUVA"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "PORTARIA Nº 8/2023 - DRG/BTV/IFSP DE 27 DE FEVEREIRO DE 2023",
+                        "md": "# PORTARIA Nº 8/2023 - DRG/BTV/IFSP DE 27 DE FEVEREIRO DE 2023"
+                    },
+                    {
+                        "type": "text",
+                        "value": "O DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015 e conforme a Portaria 2582 de 17 de julho de 2020,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a presidência do primeiro, compor a Comissão de Elaboração e Implementação do PPC de Administração do Câmpus Boituva.",
+                        "md": "O DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015 e conforme a Portaria 2582 de 17 de julho de 2020,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a presidência do primeiro, compor a Comissão de Elaboração e Implementação do PPC de Administração do Câmpus Boituva."
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Servidor",
+                                "Representação",
+                                "Mandato"
+                            ],
+                            [
+                                "Eline Gomes de Oliveira Zioli",
+                                "Coordenadora do curso",
+                                "11.05.2021 à 11.05.2023 (primeiro mandato)"
+                            ],
+                            [
+                                "Flávio Aparecido Pontes",
+                                "Representante formação profissional",
+                                "11.05.2021 à 11.05.2023 (primeiro mandato)"
+                            ],
+                            [
+                                "Israel Mendes da Silva",
+                                "Representante formação profissional",
+                                "11.05.2021 à 11.05.2023 (primeiro mandato)"
+                            ],
+                            [
+                                "Jair Manoel Casquel Júnior",
+                                "Representante formação profissional",
+                                "01.03.2023 à 01.03.2025 (primeiro mandato)"
+                            ],
+                            [
+                                "Luciano Bastos de Carvalho",
+                                "Representante formação profissional",
+                                "01.03.2023 à 01.03.2025 (primeiro mandato)"
+                            ],
+                            [
+                                "Andreza Silva Areão",
+                                "Representante formação profissional",
+                                "11.05.2021 à 11.05.2023 (primeiro mandato)"
+                            ],
+                            [
+                                "Eduardo Luis Estrada",
+                                "Representante formação geral",
+                                "11.05.2021 à 11.05.2023 (primeiro mandato)"
+                            ],
+                            [
+                                "Sâmara Rodrigues de Ataíde",
+                                "Representante formação geral",
+                                "11.05.2021 à 11.05.2023 (primeiro mandato)"
+                            ],
+                            [
+                                "Eunice Prudenciano de Souza",
+                                "Representante formação geral",
+                                "01.03.2023 à 01.03.2025 (primeiro mandato)"
+                            ]
+                        ],
+                        "md": "|Servidor|Representação|Mandato|\n|---|---|---|\n|Eline Gomes de Oliveira Zioli|Coordenadora do curso|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Flávio Aparecido Pontes|Representante formação profissional|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Israel Mendes da Silva|Representante formação profissional|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Jair Manoel Casquel Júnior|Representante formação profissional|01.03.2023 à 01.03.2025 (primeiro mandato)|\n|Luciano Bastos de Carvalho|Representante formação profissional|01.03.2023 à 01.03.2025 (primeiro mandato)|\n|Andreza Silva Areão|Representante formação profissional|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Eduardo Luis Estrada|Representante formação geral|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Sâmara Rodrigues de Ataíde|Representante formação geral|11.05.2021 à 11.05.2023 (primeiro mandato)|\n|Eunice Prudenciano de Souza|Representante formação geral|01.03.2023 à 01.03.2025 (primeiro mandato)|",
+                        "isPerfectTable": true,
+                        "csv": "\"Servidor\",\"Representação\",\"Mandato\"\n\"Eline Gomes de Oliveira Zioli\",\"Coordenadora do curso\",\"11.05.2021 à 11.05.2023 (primeiro mandato)\"\n\"Flávio Aparecido Pontes\",\"Representante formação profissional\",\"11.05.2021 à 11.05.2023 (primeiro mandato)\"\n\"Israel Mendes da Silva\",\"Representante formação profissional\",\"11.05.2021 à 11.05.2023 (primeiro mandato)\"\n\"Jair Manoel Casquel Júnior\",\"Representante formação profissional\",\"01.03.2023 à 01.03.2025 (primeiro mandato)\"\n\"Luciano Bastos de Carvalho\",\"Representante formação profissional\",\"01.03.2023 à 01.03.2025 (primeiro mandato)\"\n\"Andreza Silva Areão\",\"Representante formação profissional\",\"11.05.2021 à 11.05.2023 (primeiro mandato)\"\n\"Eduardo Luis Estrada\",\"Representante formação geral\",\"11.05.2021 à 11.05.2023 (primeiro mandato)\"\n\"Sâmara Rodrigues de Ataíde\",\"Representante formação geral\",\"11.05.2021 à 11.05.2023 (primeiro mandato)\"\n\"Eunice Prudenciano de Souza\",\"Representante formação geral\",\"01.03.2023 à 01.03.2025 (primeiro mandato)\""
+                    }
+                ]
+            },
+            {
+                "page": 2,
+                "text": "                                                                                                           Felipe Ferreira de                                                                                                                                                                               11.05.2021 à\n                                                                                                                                              Lara                                                   Coordenadoria de                                                                 11.05.2023 (primeiro\n                                                                                                                                                                               Pesquisa, Inovação e Pós-                                                                                                            mandato)\n                                                                                                                                                                                                                        graduação\n\n\n                                                                                                                                                                                                                                                                                                            11.05.2021 à\n                                                                                                                 Juliana Cristina                                                                    Coordenadoria de                                                                 11.05.2023 (primeiro\n                                                                                                                Barbosa Cazaça                                                                                             Extensão                                                                                 mandato)\n                                                                                                                                                                                                                                                                                                            11.05.2021 à\n                                                                                                                     Alice Antonia                                                                                       Pedagoga                                                     11.05.2023 (primeiro\n                                                                                                                     Dondoni Neta                                                                                                                                                                                   mandato)\n                                                                                                           João Paulo Vieira                                                                Comunidade Externa                                                                                              11.05.2021 à\n                                                                                                                                  Machado                                                                                                                                             11.05.2023 (primeiro\n                                                                                                                                                                                                                                                                                                                    mandato)\n                                                                                                                Rosiana Amaral                                                                                                                                                                              01.03.2023 à\n                                                                                                                                     Vicente                                                                                 Discente                                                 01.03.2025 (primeiro\n                                                                                                                                                                                                                                                                                                                    mandato)\n                                                                                                         Gabrielly Almeida                                                                                                                                                                                  01.03.2023 à\n                                                                                                                                     Martins                                                                                 Discente                                                 01.03.2025 (primeiro\n                                                                                                                                                                                                                                                                                                                    mandato)\n\n\nArt. 2º - Ficará a cargo do Presidente da Comissão, organizar as reuniões, que deverão ser registradas em ata\nespecífica contendo o tema ou pauta da reunião e assinaturas dos presentes. Estes registros deverão ser\nencaminhados, no prazo de 10 (dez) dias, após cada reunião, à Direção Adjunta Educacional do Câmpus.\n\n\nArt. 3.º - Cada membro da Comissão supracitada terá direito a 1 (um) hora semanal de dedicação para as\natividades da comissão.\n\n\nArt. 4º - REVOGAR a PORTARIA BTV.0033/2021, DE 11 DE MAIO DE 2021.\n\n\nArt. 5º - Esta Portaria tem vigência até o dia 01 de março de 2025.\n\n\nArt. 6º - Esta Portaria entra em vigor na data de sua publicação.\n\n\nDe ciência.\n\n\nPublique-se.\n                                                                                                                                                                                           Documento assinado eletronicamente.\n                                                                                                                                                                                      FELIPE AUGUSTO FERREIRA DE ALMEIDA\n\n\n                                                                                                                                                                                                                                       Publicado no site institucional em 27.02.2022\n\n\n            Documento assinado eletronicamente por:\n                   Felipe Augusto Ferreira de Almeida , DIRETOR GERAL - CD2 - DRG/BTV, em 27/02/2023 16:57:58.\n                                                                                                              Felipe Augusto Ferreira de AlmeidaDIRETOR GERAL - CD2 - DRG/BTV\n\n\n            Este documento foi emiMdo pelo SUAP em 27/02/2023. Para comprovar sua autenMcidade, faça a leitura do QRCode ao lado ou acesse\n            https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\n\n            Código Verificador:501334\n            Código de Autenticação:e7b3690bda",
+                "md": "# Felipe Ferreira de 11.05.2021 à Lara Coordenadoria de Pesquisa, Inovação e Pós-graduação 11.05.2023 (primeiro mandato)\n\n# Juliana Cristina Barbosa Cazaça Coordenadoria de Extensão 11.05.2023 (primeiro mandato)\n\n# Alice Antonia Dondoni Neta Pedagoga 11.05.2023 (primeiro mandato)\n\n# João Paulo Vieira Machado Comunidade Externa 11.05.2021 à 11.05.2023 (primeiro mandato)\n\n# Rosiana Amaral Vicente Discente 01.03.2023 à 01.03.2025 (primeiro mandato)\n\n# Gabrielly Almeida Martins Discente 01.03.2023 à 01.03.2025 (primeiro mandato)\n\nArt. 2º - Ficará a cargo do Presidente da Comissão, organizar as reuniões, que deverão ser registradas em ata específica contendo o tema ou pauta da reunião e assinaturas dos presentes. Estes registros deverão ser encaminhados, no prazo de 10 (dez) dias, após cada reunião, à Direção Adjunta Educacional do Câmpus.\nArt. 3.º - Cada membro da Comissão supracitada terá direito a 1 (um) hora semanal de dedicação para as atividades da comissão.\nArt. 4º - REVOGAR a PORTARIA BTV.0033/2021, DE 11 DE MAIO DE 2021.\nArt. 5º - Esta Portaria tem vigência até o dia 01 de março de 2025.\nArt. 6º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 27.02.2022\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida, DIRETOR GERAL - CD2 - DRG/BTV, em 27/02/2023 16:57:58.\n\nFelipe Augusto Ferreira de Almeida DIRETOR GERAL - CD2 - DRG/BTV\n\nEste documento foi emitido pelo SUAP em 27/02/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador: 501334\n\nCódigo de Autenticação: e7b3690bda",
+                "images": [
+                    {
+                        "name": "img_p1_1.png",
+                        "height": 162,
+                        "width": 719
+                    },
+                    {
+                        "name": "img_p1_2.png",
+                        "height": 115,
+                        "width": 115
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Felipe Ferreira de 11.05.2021 à Lara Coordenadoria de Pesquisa, Inovação e Pós-graduação 11.05.2023 (primeiro mandato)",
+                        "md": "# Felipe Ferreira de 11.05.2021 à Lara Coordenadoria de Pesquisa, Inovação e Pós-graduação 11.05.2023 (primeiro mandato)"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Juliana Cristina Barbosa Cazaça Coordenadoria de Extensão 11.05.2023 (primeiro mandato)",
+                        "md": "# Juliana Cristina Barbosa Cazaça Coordenadoria de Extensão 11.05.2023 (primeiro mandato)"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Alice Antonia Dondoni Neta Pedagoga 11.05.2023 (primeiro mandato)",
+                        "md": "# Alice Antonia Dondoni Neta Pedagoga 11.05.2023 (primeiro mandato)"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "João Paulo Vieira Machado Comunidade Externa 11.05.2021 à 11.05.2023 (primeiro mandato)",
+                        "md": "# João Paulo Vieira Machado Comunidade Externa 11.05.2021 à 11.05.2023 (primeiro mandato)"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Rosiana Amaral Vicente Discente 01.03.2023 à 01.03.2025 (primeiro mandato)",
+                        "md": "# Rosiana Amaral Vicente Discente 01.03.2023 à 01.03.2025 (primeiro mandato)"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Gabrielly Almeida Martins Discente 01.03.2023 à 01.03.2025 (primeiro mandato)",
+                        "md": "# Gabrielly Almeida Martins Discente 01.03.2023 à 01.03.2025 (primeiro mandato)"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Art. 2º - Ficará a cargo do Presidente da Comissão, organizar as reuniões, que deverão ser registradas em ata específica contendo o tema ou pauta da reunião e assinaturas dos presentes. Estes registros deverão ser encaminhados, no prazo de 10 (dez) dias, após cada reunião, à Direção Adjunta Educacional do Câmpus.\nArt. 3.º - Cada membro da Comissão supracitada terá direito a 1 (um) hora semanal de dedicação para as atividades da comissão.\nArt. 4º - REVOGAR a PORTARIA BTV.0033/2021, DE 11 DE MAIO DE 2021.\nArt. 5º - Esta Portaria tem vigência até o dia 01 de março de 2025.\nArt. 6º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 27.02.2022\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida, DIRETOR GERAL - CD2 - DRG/BTV, em 27/02/2023 16:57:58.\n\nFelipe Augusto Ferreira de Almeida DIRETOR GERAL - CD2 - DRG/BTV\n\nEste documento foi emitido pelo SUAP em 27/02/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador: 501334\n\nCódigo de Autenticação: e7b3690bda",
+                        "md": "Art. 2º - Ficará a cargo do Presidente da Comissão, organizar as reuniões, que deverão ser registradas em ata específica contendo o tema ou pauta da reunião e assinaturas dos presentes. Estes registros deverão ser encaminhados, no prazo de 10 (dez) dias, após cada reunião, à Direção Adjunta Educacional do Câmpus.\nArt. 3.º - Cada membro da Comissão supracitada terá direito a 1 (um) hora semanal de dedicação para as atividades da comissão.\nArt. 4º - REVOGAR a PORTARIA BTV.0033/2021, DE 11 DE MAIO DE 2021.\nArt. 5º - Esta Portaria tem vigência até o dia 01 de março de 2025.\nArt. 6º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 27.02.2022\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida, DIRETOR GERAL - CD2 - DRG/BTV, em 27/02/2023 16:57:58.\n\nFelipe Augusto Ferreira de Almeida DIRETOR GERAL - CD2 - DRG/BTV\n\nEste documento foi emitido pelo SUAP em 27/02/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador: 501334\n\nCódigo de Autenticação: e7b3690bda"
+                    }
+                ]
+            },
+            {
+                "page": 3,
+                "text": "PORTARIA Nº 8/2023 - DRG/BTV/IFSP\n                                 PORTARIA Nº 8/2023 - DRG/BTV/IFSP",
+                "md": "PORTARIA Nº 8/2023 - DRG/BTV/IFSP\n                                 PORTARIA Nº 8/2023 - DRG/BTV/IFSP",
+                "images": [],
+                "items": [
+                    {
+                        "type": "text",
+                        "value": "PORTARIA Nº 8/2023 - DRG/BTV/IFSP\n                                 PORTARIA Nº 8/2023 - DRG/BTV/IFSP",
+                        "md": "PORTARIA Nº 8/2023 - DRG/BTV/IFSP\n                                 PORTARIA Nº 8/2023 - DRG/BTV/IFSP"
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 806.0,
+            "credits_max": 1000,
+            "job_credits_usage": 3,
+            "job_pages": 3,
+            "job_is_cache_hit": false
+        },
+        "job_id": "160d8b2e-0cc0-4778-ba6f-56553dbb7f6e",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2023/02 - Fevereiro/Fev_Port_0008_Rev e Designar a CEIC do PPC de Administração_BTV.pdf"
+    }
+]

@@ -1,0 +1,279 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "                                                        MINISTÉRIO DA EDUCAÇÃO\n                                                                              MINISTÉRIO DA EDUCAÇÃO\n                           INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n                                                                                           INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n                                                             CAMPUS BOITUVA\n                                                                           CAMPUS BOITUVA\n\n\n                                 PORTARIA Nº 54/2023 - DRG/BTV/IFSP DE 31 DE AGOSTO DE 2023\n                                                                                           PORTARIA Nº 54/2023 - DRG/BTV/IFSP DE 31 DE AGOSTO DE 2023\n\n\nO PRESIDENTE DO CONSELHO DE CAMPUS DE BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E\nTECNOLOGIA DE SÃO PAULO, no uso de suas atribuições regulamentares,\n\n\nRESOLVE:\n\n\nArt. 1º - Aprovar,      ad referendum, a proposta do Plano de Desenvolvimento Ins8tucional (PDI) 2024-2028 do\nCampus Boituva:\n\n\nOFERTAS MANTIDAS:\n                 OFERTAS MANTIDAS:\n\n\n                    Curso                      Nº de      Ingresso     Duração       Turno\n                                               vagas\n\n\n      Técnico Integrado em Automação             40        Anual         3 anos     Integral\n                  Industrial\n\n\n      Técnico Con/Sub em Sistemas de             40        Anual         2 anos     Noturno\n             Energia Renovável\n\n\n      Técnico Con/Sub em Automação               40        Anual         2 anos     Noturno\n                  Industrial\n\n\n    Técnico Con/Sub em Administração             40        Anual         1 ano      Noturno\n\n\n     Técnico Sub em Secretaria Escolar           50      Semestral       1 ano        EaD\n\n\n  Tecnólogo em Análise e Desenvolvimento         40        Anual         3 anos     Noturno\n                 de Sistemas\n\n\n  Bacharelado em Engenharia de Produção          40        Anual         5 anos     Noturno\n\n\n         Licenciatura em Pedagogia               40        Anual         4 anos     Noturno\n\n\nOFERTAS CANCELADAS:",
+                "md": "# MINISTÉRIO DA EDUCAÇÃO\n\n# INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n\n# CAMPUS BOITUVA\n\n# PORTARIA Nº 54/2023 - DRG/BTV/IFSP DE 31 DE AGOSTO DE 2023\n\nO PRESIDENTE DO CONSELHO DE CAMPUS DE BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E\nTECNOLOGIA DE SÃO PAULO, no uso de suas atribuições regulamentares,\n\nRESOLVE:\n\nArt. 1º - Aprovar, ad referendum, a proposta do Plano de Desenvolvimento Ins8tucional (PDI) 2024-2028 do\nCampus Boituva:\n\n# OFERTAS MANTIDAS:\n\n|Curso|Nº de vagas|Ingresso|Duração|Turno|\n|---|---|---|---|---|\n|Técnico Integrado em Automação Industrial|40|Anual|3 anos|Integral|\n|Técnico Con/Sub em Sistemas de Energia Renovável|40|Anual|2 anos|Noturno|\n|Técnico Con/Sub em Automação Industrial|40|Anual|2 anos|Noturno|\n|Técnico Con/Sub em Administração|40|Anual|1 ano|Noturno|\n|Técnico Sub em Secretaria Escolar|50|Semestral|1 ano|EaD|\n|Tecnólogo em Análise e Desenvolvimento de Sistemas|40|Anual|3 anos|Noturno|\n|Bacharelado em Engenharia de Produção|40|Anual|5 anos|Noturno|\n|Licenciatura em Pedagogia|40|Anual|4 anos|Noturno|\n\n# OFERTAS CANCELADAS:",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 119,
+                        "width": 121
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "MINISTÉRIO DA EDUCAÇÃO",
+                        "md": "# MINISTÉRIO DA EDUCAÇÃO"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO",
+                        "md": "# INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "CAMPUS BOITUVA",
+                        "md": "# CAMPUS BOITUVA"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "PORTARIA Nº 54/2023 - DRG/BTV/IFSP DE 31 DE AGOSTO DE 2023",
+                        "md": "# PORTARIA Nº 54/2023 - DRG/BTV/IFSP DE 31 DE AGOSTO DE 2023"
+                    },
+                    {
+                        "type": "text",
+                        "value": "O PRESIDENTE DO CONSELHO DE CAMPUS DE BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E\nTECNOLOGIA DE SÃO PAULO, no uso de suas atribuições regulamentares,\n\nRESOLVE:\n\nArt. 1º - Aprovar, ad referendum, a proposta do Plano de Desenvolvimento Ins8tucional (PDI) 2024-2028 do\nCampus Boituva:",
+                        "md": "O PRESIDENTE DO CONSELHO DE CAMPUS DE BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E\nTECNOLOGIA DE SÃO PAULO, no uso de suas atribuições regulamentares,\n\nRESOLVE:\n\nArt. 1º - Aprovar, ad referendum, a proposta do Plano de Desenvolvimento Ins8tucional (PDI) 2024-2028 do\nCampus Boituva:"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "OFERTAS MANTIDAS:",
+                        "md": "# OFERTAS MANTIDAS:"
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Curso",
+                                "Nº de vagas",
+                                "Ingresso",
+                                "Duração",
+                                "Turno"
+                            ],
+                            [
+                                "Técnico Integrado em Automação Industrial",
+                                "40",
+                                "Anual",
+                                "3 anos",
+                                "Integral"
+                            ],
+                            [
+                                "Técnico Con/Sub em Sistemas de Energia Renovável",
+                                "40",
+                                "Anual",
+                                "2 anos",
+                                "Noturno"
+                            ],
+                            [
+                                "Técnico Con/Sub em Automação Industrial",
+                                "40",
+                                "Anual",
+                                "2 anos",
+                                "Noturno"
+                            ],
+                            [
+                                "Técnico Con/Sub em Administração",
+                                "40",
+                                "Anual",
+                                "1 ano",
+                                "Noturno"
+                            ],
+                            [
+                                "Técnico Sub em Secretaria Escolar",
+                                "50",
+                                "Semestral",
+                                "1 ano",
+                                "EaD"
+                            ],
+                            [
+                                "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                                "40",
+                                "Anual",
+                                "3 anos",
+                                "Noturno"
+                            ],
+                            [
+                                "Bacharelado em Engenharia de Produção",
+                                "40",
+                                "Anual",
+                                "5 anos",
+                                "Noturno"
+                            ],
+                            [
+                                "Licenciatura em Pedagogia",
+                                "40",
+                                "Anual",
+                                "4 anos",
+                                "Noturno"
+                            ]
+                        ],
+                        "md": "|Curso|Nº de vagas|Ingresso|Duração|Turno|\n|---|---|---|---|---|\n|Técnico Integrado em Automação Industrial|40|Anual|3 anos|Integral|\n|Técnico Con/Sub em Sistemas de Energia Renovável|40|Anual|2 anos|Noturno|\n|Técnico Con/Sub em Automação Industrial|40|Anual|2 anos|Noturno|\n|Técnico Con/Sub em Administração|40|Anual|1 ano|Noturno|\n|Técnico Sub em Secretaria Escolar|50|Semestral|1 ano|EaD|\n|Tecnólogo em Análise e Desenvolvimento de Sistemas|40|Anual|3 anos|Noturno|\n|Bacharelado em Engenharia de Produção|40|Anual|5 anos|Noturno|\n|Licenciatura em Pedagogia|40|Anual|4 anos|Noturno|",
+                        "isPerfectTable": true,
+                        "csv": "\"Curso\",\"Nº de vagas\",\"Ingresso\",\"Duração\",\"Turno\"\n\"Técnico Integrado em Automação Industrial\",\"40\",\"Anual\",\"3 anos\",\"Integral\"\n\"Técnico Con/Sub em Sistemas de Energia Renovável\",\"40\",\"Anual\",\"2 anos\",\"Noturno\"\n\"Técnico Con/Sub em Automação Industrial\",\"40\",\"Anual\",\"2 anos\",\"Noturno\"\n\"Técnico Con/Sub em Administração\",\"40\",\"Anual\",\"1 ano\",\"Noturno\"\n\"Técnico Sub em Secretaria Escolar\",\"50\",\"Semestral\",\"1 ano\",\"EaD\"\n\"Tecnólogo em Análise e Desenvolvimento de Sistemas\",\"40\",\"Anual\",\"3 anos\",\"Noturno\"\n\"Bacharelado em Engenharia de Produção\",\"40\",\"Anual\",\"5 anos\",\"Noturno\"\n\"Licenciatura em Pedagogia\",\"40\",\"Anual\",\"4 anos\",\"Noturno\""
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "OFERTAS CANCELADAS:",
+                        "md": "# OFERTAS CANCELADAS:"
+                    }
+                ]
+            },
+            {
+                "page": 2,
+                "text": "                     Curso                        Nº de  Ingresso     Duração          Turno\n                                                  vagas\n\n\n      Técnico Integrado em Redes de                 40     Anual        3 anos        Integral\n                Computadores\n\n\n   Técnico Con/Sub em Administração                 40     Anual        1 ano        Vespertino\n\n\n       Especialização em Gestão da                                         3\n         Tecnologia da Informação                   25     Anual                      Noturno\n                                                                      semestres\n\n\nNOVAS OFERTAS:\n\n\n                           Curso                          Nº de    Ingresso      Duração        Turno      Início\n                                                          vagas\n\n\n          Técnico Integrado em Informática                  40       Anual         3 anos       Integral  01/2026\n\n\n         Técnico Integrado em Administração                 40       Anual         3 anos       Integral  01/2025\n\n\n   PROEJA – Técnico em Informática (Parceria)               30       Anual         2 anos      Matutino   01/2026\n\n\n          Tecnólogo em Gestão Empresarial                   40       Anual         2 anos      Noturno    01/2025\n\n\n     Especialização em Sistemas de Inteligência             40       Anual         2 anos      Noturno    01/2025\n        Artificial e Aprendizado de Máquinas\n\n\n  Especialização Gestão Escolar e Organização do            40       Anual         1 ano         EaD      02/2024\n                  Trabalho Pedagógico",
+                "md": "|Curso|Nº de vagas|Ingresso|Duração|Turno|\n|---|---|---|---|---|\n|Técnico Integrado em Redes de Computadores|40|Anual|3 anos|Integral|\n|Técnico Con/Sub em Administração|40|Anual|1 ano|Vespertino|\n|Especialização em Gestão da Tecnologia da Informação|25|Anual|3 semestres|Noturno|\n\n|Curso|Nº de vagas|Ingresso|Duração|Turno|Início|\n|---|---|---|---|---|---|\n|Técnico Integrado em Informática|40|Anual|3 anos|Integral|01/2026|\n|Técnico Integrado em Administração|40|Anual|3 anos|Integral|01/2025|\n|PROEJA – Técnico em Informática (Parceria)|30|Anual|2 anos|Matutino|01/2026|\n|Tecnólogo em Gestão Empresarial|40|Anual|2 anos|Noturno|01/2025|\n|Especialização em Sistemas de Inteligência Artificial e Aprendizado de Máquinas|40|Anual|2 anos|Noturno|01/2025|\n|Especialização Gestão Escolar e Organização do Trabalho Pedagógico|40|Anual|1 ano|EaD|02/2024|",
+                "images": [],
+                "items": [
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Curso",
+                                "Nº de vagas",
+                                "Ingresso",
+                                "Duração",
+                                "Turno"
+                            ],
+                            [
+                                "Técnico Integrado em Redes de Computadores",
+                                "40",
+                                "Anual",
+                                "3 anos",
+                                "Integral"
+                            ],
+                            [
+                                "Técnico Con/Sub em Administração",
+                                "40",
+                                "Anual",
+                                "1 ano",
+                                "Vespertino"
+                            ],
+                            [
+                                "Especialização em Gestão da Tecnologia da Informação",
+                                "25",
+                                "Anual",
+                                "3 semestres",
+                                "Noturno"
+                            ]
+                        ],
+                        "md": "|Curso|Nº de vagas|Ingresso|Duração|Turno|\n|---|---|---|---|---|\n|Técnico Integrado em Redes de Computadores|40|Anual|3 anos|Integral|\n|Técnico Con/Sub em Administração|40|Anual|1 ano|Vespertino|\n|Especialização em Gestão da Tecnologia da Informação|25|Anual|3 semestres|Noturno|",
+                        "isPerfectTable": true,
+                        "csv": "\"Curso\",\"Nº de vagas\",\"Ingresso\",\"Duração\",\"Turno\"\n\"Técnico Integrado em Redes de Computadores\",\"40\",\"Anual\",\"3 anos\",\"Integral\"\n\"Técnico Con/Sub em Administração\",\"40\",\"Anual\",\"1 ano\",\"Vespertino\"\n\"Especialização em Gestão da Tecnologia da Informação\",\"25\",\"Anual\",\"3 semestres\",\"Noturno\""
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Curso",
+                                "Nº de vagas",
+                                "Ingresso",
+                                "Duração",
+                                "Turno",
+                                "Início"
+                            ],
+                            [
+                                "Técnico Integrado em Informática",
+                                "40",
+                                "Anual",
+                                "3 anos",
+                                "Integral",
+                                "01/2026"
+                            ],
+                            [
+                                "Técnico Integrado em Administração",
+                                "40",
+                                "Anual",
+                                "3 anos",
+                                "Integral",
+                                "01/2025"
+                            ],
+                            [
+                                "PROEJA – Técnico em Informática (Parceria)",
+                                "30",
+                                "Anual",
+                                "2 anos",
+                                "Matutino",
+                                "01/2026"
+                            ],
+                            [
+                                "Tecnólogo em Gestão Empresarial",
+                                "40",
+                                "Anual",
+                                "2 anos",
+                                "Noturno",
+                                "01/2025"
+                            ],
+                            [
+                                "Especialização em Sistemas de Inteligência Artificial e Aprendizado de Máquinas",
+                                "40",
+                                "Anual",
+                                "2 anos",
+                                "Noturno",
+                                "01/2025"
+                            ],
+                            [
+                                "Especialização Gestão Escolar e Organização do Trabalho Pedagógico",
+                                "40",
+                                "Anual",
+                                "1 ano",
+                                "EaD",
+                                "02/2024"
+                            ]
+                        ],
+                        "md": "|Curso|Nº de vagas|Ingresso|Duração|Turno|Início|\n|---|---|---|---|---|---|\n|Técnico Integrado em Informática|40|Anual|3 anos|Integral|01/2026|\n|Técnico Integrado em Administração|40|Anual|3 anos|Integral|01/2025|\n|PROEJA – Técnico em Informática (Parceria)|30|Anual|2 anos|Matutino|01/2026|\n|Tecnólogo em Gestão Empresarial|40|Anual|2 anos|Noturno|01/2025|\n|Especialização em Sistemas de Inteligência Artificial e Aprendizado de Máquinas|40|Anual|2 anos|Noturno|01/2025|\n|Especialização Gestão Escolar e Organização do Trabalho Pedagógico|40|Anual|1 ano|EaD|02/2024|",
+                        "isPerfectTable": true,
+                        "csv": "\"Curso\",\"Nº de vagas\",\"Ingresso\",\"Duração\",\"Turno\",\"Início\"\n\"Técnico Integrado em Informática\",\"40\",\"Anual\",\"3 anos\",\"Integral\",\"01/2026\"\n\"Técnico Integrado em Administração\",\"40\",\"Anual\",\"3 anos\",\"Integral\",\"01/2025\"\n\"PROEJA – Técnico em Informática (Parceria)\",\"30\",\"Anual\",\"2 anos\",\"Matutino\",\"01/2026\"\n\"Tecnólogo em Gestão Empresarial\",\"40\",\"Anual\",\"2 anos\",\"Noturno\",\"01/2025\"\n\"Especialização em Sistemas de Inteligência Artificial e Aprendizado de Máquinas\",\"40\",\"Anual\",\"2 anos\",\"Noturno\",\"01/2025\"\n\"Especialização Gestão Escolar e Organização do Trabalho Pedagógico\",\"40\",\"Anual\",\"1 ano\",\"EaD\",\"02/2024\""
+                    }
+                ]
+            },
+            {
+                "page": 3,
+                "text": "Art. 2º - Esta Portaria entra em vigor na data de sua publicação.\n\n\nDe ciência.\n\n\nPublique-se.\n                                                                                                                                                                                                 Documento assinado eletronicamente.\n                                                                                                                                                                                            FELIPE AUGUSTO FERREIRA DE ALMEIDA\n\n\n                                                                                                                                                                                                                                                                                                            Publicado no site ins8tucional em 31.08.2023\n\n\n               Documento assinado eletronicamente por:\n                        Felipe Augusto Ferreira de Almeida , DIRETOR(A) GERAL - CD2 - DRG/BTV, em 31/08/2023 17:12:12.\n                                                                                                                      Felipe Augusto Ferreira de Almeida  DIRETOR(A) GERAL - CD2 - DRG/BTV\n\n\n               Este documento foi emi8do pelo SUAP em 31/08/2023. Para comprovar sua auten8cidade, faça a leitura do QRCode ao lado ou acesse\n               hEps://suap.ifsp.edu.br/auten8car-documento/ e forneça os dados abaixo:\n\n\n               Código Verificador:                                                                 611830\n               Código de Auten8cação:1c1a776e86\n\n\n                                                                                                                                                                                                                                      PORTARIA Nº 54/2023 - DRG/BTV/IFSP\n                                                                                                                                                                                                                                                                        PORTARIA Nº 54/2023 - DRG/BTV/IFSP",
+                "md": "#\nArt. 2º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 31.08.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida , DIRETOR(A) GERAL - CD2 - DRG/BTV, em 31/08/2023 17:12:12.\n\nFelipe Augusto Ferreira de Almeida DIRETOR(A) GERAL - CD2 - DRG/BTV\n\nEste documento foi emitido pelo SUAP em 31/08/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador: 611830\n\nCódigo de Autenticação: 1c1a776e86\n\nPORTARIA Nº 54/2023 - DRG/BTV/IFSP\n\nPORTARIA Nº 54/2023 - DRG/BTV/IFSP",
+                "images": [
+                    {
+                        "name": "img_p2_1.png",
+                        "height": 162,
+                        "width": 719
+                    },
+                    {
+                        "name": "img_p2_2.png",
+                        "height": 115,
+                        "width": 115
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "",
+                        "md": "#"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Art. 2º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 31.08.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida , DIRETOR(A) GERAL - CD2 - DRG/BTV, em 31/08/2023 17:12:12.\n\nFelipe Augusto Ferreira de Almeida DIRETOR(A) GERAL - CD2 - DRG/BTV\n\nEste documento foi emitido pelo SUAP em 31/08/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador: 611830\n\nCódigo de Autenticação: 1c1a776e86\n\nPORTARIA Nº 54/2023 - DRG/BTV/IFSP\n\nPORTARIA Nº 54/2023 - DRG/BTV/IFSP",
+                        "md": "Art. 2º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 31.08.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida , DIRETOR(A) GERAL - CD2 - DRG/BTV, em 31/08/2023 17:12:12.\n\nFelipe Augusto Ferreira de Almeida DIRETOR(A) GERAL - CD2 - DRG/BTV\n\nEste documento foi emitido pelo SUAP em 31/08/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador: 611830\n\nCódigo de Autenticação: 1c1a776e86\n\nPORTARIA Nº 54/2023 - DRG/BTV/IFSP\n\nPORTARIA Nº 54/2023 - DRG/BTV/IFSP"
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 825.0,
+            "credits_max": 1000,
+            "job_credits_usage": 3,
+            "job_pages": 3,
+            "job_is_cache_hit": false
+        },
+        "job_id": "197e424d-063b-4c2b-9658-8ac425638379",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2023/08 - Agosto/Ago_Port_0054_Aprovar ad referendum Plano de Desenvolvimento Institucional (PDI).pdf"
+    }
+]

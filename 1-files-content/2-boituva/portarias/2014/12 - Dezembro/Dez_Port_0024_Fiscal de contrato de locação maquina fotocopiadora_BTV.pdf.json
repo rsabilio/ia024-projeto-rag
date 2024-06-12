@@ -1,0 +1,97 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "        {  H78 8         1    1  Hi7\n                                    HF8 $\n                                          1  {1013            L372\n           Wh2         L2J         #18\n                                   {         Fh           7\n   18  188Q7\n        7  8 &\n            WHHi31LJ88    1   [   V#W        J88%3\n                                                  E{33pK  V\n                                                           U11\n                                                          85\n        88LJi          3   8         39\n9           Hi HeI8J48              H          813    1   51 1\n       2\n              8 2    8 83          VI           7     1",
+                "md": "|H78 8|1|1|Hi7|\n|---|---|---|---|\n|HF8 $|1|{1013|L372|\n|Wh2|L2J|#18|{|\n|Fh|7|18|188Q7|\n|7|8 &|WHHi31LJ88|1|\n|[|V#W|J88%3|E{33pK V|\n|U11|85|88LJi|3|\n|8|39|9|Hi HeI8J48|\n|H|813|1|51 1 2|\n|8 2|8 83|VI|7 1|",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 1684,
+                        "width": 1191
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "H78 8",
+                                "1",
+                                "1",
+                                "Hi7"
+                            ],
+                            [
+                                "HF8 $",
+                                "1",
+                                "{1013",
+                                "L372"
+                            ],
+                            [
+                                "Wh2",
+                                "L2J",
+                                "#18",
+                                "{"
+                            ],
+                            [
+                                "Fh",
+                                "7",
+                                "18",
+                                "188Q7"
+                            ],
+                            [
+                                "7",
+                                "8 &",
+                                "WHHi31LJ88",
+                                "1"
+                            ],
+                            [
+                                "[",
+                                "V#W",
+                                "J88%3",
+                                "E{33pK V"
+                            ],
+                            [
+                                "U11",
+                                "85",
+                                "88LJi",
+                                "3"
+                            ],
+                            [
+                                "8",
+                                "39",
+                                "9",
+                                "Hi HeI8J48"
+                            ],
+                            [
+                                "H",
+                                "813",
+                                "1",
+                                "51 1 2"
+                            ],
+                            [
+                                "8 2",
+                                "8 83",
+                                "VI",
+                                "7 1"
+                            ]
+                        ],
+                        "md": "|H78 8|1|1|Hi7|\n|---|---|---|---|\n|HF8 $|1|{1013|L372|\n|Wh2|L2J|#18|{|\n|Fh|7|18|188Q7|\n|7|8 &|WHHi31LJ88|1|\n|[|V#W|J88%3|E{33pK V|\n|U11|85|88LJi|3|\n|8|39|9|Hi HeI8J48|\n|H|813|1|51 1 2|\n|8 2|8 83|VI|7 1|",
+                        "isPerfectTable": true,
+                        "csv": "\"H78 8\",\"1\",\"1\",\"Hi7\"\n\"HF8 $\",\"1\",\"{1013\",\"L372\"\n\"Wh2\",\"L2J\",\"#18\",\"{\"\n\"Fh\",\"7\",\"18\",\"188Q7\"\n\"7\",\"8 &\",\"WHHi31LJ88\",\"1\"\n\"[\",\"V#W\",\"J88%3\",\"E{33pK V\"\n\"U11\",\"85\",\"88LJi\",\"3\"\n\"8\",\"39\",\"9\",\"Hi HeI8J48\"\n\"H\",\"813\",\"1\",\"51 1 2\"\n\"8 2\",\"8 83\",\"VI\",\"7 1\""
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 431.0,
+            "credits_max": 1000,
+            "job_credits_usage": 1,
+            "job_pages": 1,
+            "job_is_cache_hit": false
+        },
+        "job_id": "273c3957-5d15-4c57-a72f-811aad2c911d",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2014/12 - Dezembro/Dez_Port_0024_Fiscal de contrato de locação maquina fotocopiadora_BTV.pdf"
+    }
+]

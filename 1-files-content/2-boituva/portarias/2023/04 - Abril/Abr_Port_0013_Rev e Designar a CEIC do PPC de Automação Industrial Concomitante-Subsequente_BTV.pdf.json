@@ -1,0 +1,173 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "                                                    MINISTÉRIO DA EDUCAÇÃO\n                                                                          MINISTÉRIO DA EDUCAÇÃO\n                         INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n                                                                                         INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n                                                         CÂMPUS BOITUVA\n                                                                       CÂMPUS BOITUVA\n\n\n                                PORTARIA Nº 13/2023 - DRG/BTV/IFSP DE 12 DE ABRIL DE 2023\n                                                                                         PORTARIA Nº 13/2023 - DRG/BTV/IFSP DE 12 DE ABRIL DE 2023\n\n\nO DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE\nSÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015 e\nconforme a Portaria 2582 de 17 de julho de 2020,\n\n\nRESOLVE:\n\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a presidência do primeiro, compor a\nComissão      de   Elaboração      e   Implementação        do    PPC    do    Curso    Técnico     em    Automação       Industrial\nConcomitante/Subsequente do Câmpus Boituva.\n\n\n                              Servidor                   Representação                      Mandato\n                       Adriana Nascimento         Coordenadora do curso              08.03.2023 à\n                       de Jesus                                                      08.03.2025 (primeiro\n                                                                                     mandato)\n                       Hilton Carlos de           Representante formação             25.05.2022 à\n                       Miranda Mello              profissional                       24.05.2024 (primeiro\n                                                                                     mandato)\n                       Otávio Luiz                Representante formação             28.09.2022               à\n                       Medeiros Tibagy            profissional                       28.09.2024 (primeiro\n                                                                                     mandato)\n                       Gustavo Vinicius           Representante formação             25.05.2022 à\n                       Santana                    profissional                       24.05.2024 (primeiro\n                                                                                     mandato)\n                       Sergio           Tadeu     Representante formação             25.05.2022               à\n                       Albardeiro                 profissional                       24.05.2024 (primeiro\n                                                                                     mandato)\n                       Juliana         Regina     Representante        formação      25.05.2022               à\n                       Basilio                    geral                              24.05.2024 (primeiro\n                                                                                     mandato)\n                       Diogo Henrique             Representante        formação      25.05.2022               à\n                       Constantino                geral                              24.05.2024 (primeiro\n                       Coledam                                                       mandato)\n                       Roberta Akemi              Coordenadoria de                   25.05.2022 à\n                       Sinoara                    Pesquisa, Inovação e Pós-          24.05.2024 (primeiro\n                                                  graduação                          mandato)\n                       Juliana Cristina           Coordenadoria de                   25.05.2022 à\n                       Barbosa Cazaça             Extensão                           24.05.2024 (primeiro\n                                                                                     mandato)\n                       Regiane Miranda de         Técnica em Assunto                 25.05.2022 à\n                       Andrade                    Educacionais                       24.05.2024 (primeiro\n                                                                                     mandato)",
+                "md": "# MINISTÉRIO DA EDUCAÇÃO\n\n# INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n\n# CÂMPUS BOITUVA\n\n# PORTARIA Nº 13/2023 - DRG/BTV/IFSP DE 12 DE ABRIL DE 2023\n\nO DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015 e conforme a Portaria 2582 de 17 de julho de 2020,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a presidência do primeiro, compor a Comissão de Elaboração e Implementação do PPC do Curso Técnico em Automação Industrial Concomitante/Subsequente do Câmpus Boituva.\n\n|Servidor|Representação|Mandato|\n|---|---|---|\n|Adriana Nascimento de Jesus|Coordenadora do curso|08.03.2023 à 08.03.2025 (primeiro mandato)|\n|Hilton Carlos de Miranda Mello|Representante formação profissional|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Otávio Luiz Medeiros Tibagy|Representante formação profissional|28.09.2022 à 28.09.2024 (primeiro mandato)|\n|Gustavo Vinicius Santana|Representante formação profissional|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Sergio Tadeu Albardeiro|Representante formação profissional|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Juliana Regina Basilio|Representante formação geral|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Diogo Henrique Constantino Coledam|Representante formação geral|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Roberta Akemi Sinoara|Coordenadoria de Pesquisa, Inovação e Pós-graduação|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Juliana Cristina Barbosa Cazaça|Coordenadoria de Extensão|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Regiane Miranda de Andrade|Técnica em Assunto Educacionais|25.05.2022 à 24.05.2024 (primeiro mandato)|",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 119,
+                        "width": 121
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "MINISTÉRIO DA EDUCAÇÃO",
+                        "md": "# MINISTÉRIO DA EDUCAÇÃO"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO",
+                        "md": "# INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "CÂMPUS BOITUVA",
+                        "md": "# CÂMPUS BOITUVA"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "PORTARIA Nº 13/2023 - DRG/BTV/IFSP DE 12 DE ABRIL DE 2023",
+                        "md": "# PORTARIA Nº 13/2023 - DRG/BTV/IFSP DE 12 DE ABRIL DE 2023"
+                    },
+                    {
+                        "type": "text",
+                        "value": "O DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015 e conforme a Portaria 2582 de 17 de julho de 2020,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a presidência do primeiro, compor a Comissão de Elaboração e Implementação do PPC do Curso Técnico em Automação Industrial Concomitante/Subsequente do Câmpus Boituva.",
+                        "md": "O DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015 e conforme a Portaria 2582 de 17 de julho de 2020,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a presidência do primeiro, compor a Comissão de Elaboração e Implementação do PPC do Curso Técnico em Automação Industrial Concomitante/Subsequente do Câmpus Boituva."
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Servidor",
+                                "Representação",
+                                "Mandato"
+                            ],
+                            [
+                                "Adriana Nascimento de Jesus",
+                                "Coordenadora do curso",
+                                "08.03.2023 à 08.03.2025 (primeiro mandato)"
+                            ],
+                            [
+                                "Hilton Carlos de Miranda Mello",
+                                "Representante formação profissional",
+                                "25.05.2022 à 24.05.2024 (primeiro mandato)"
+                            ],
+                            [
+                                "Otávio Luiz Medeiros Tibagy",
+                                "Representante formação profissional",
+                                "28.09.2022 à 28.09.2024 (primeiro mandato)"
+                            ],
+                            [
+                                "Gustavo Vinicius Santana",
+                                "Representante formação profissional",
+                                "25.05.2022 à 24.05.2024 (primeiro mandato)"
+                            ],
+                            [
+                                "Sergio Tadeu Albardeiro",
+                                "Representante formação profissional",
+                                "25.05.2022 à 24.05.2024 (primeiro mandato)"
+                            ],
+                            [
+                                "Juliana Regina Basilio",
+                                "Representante formação geral",
+                                "25.05.2022 à 24.05.2024 (primeiro mandato)"
+                            ],
+                            [
+                                "Diogo Henrique Constantino Coledam",
+                                "Representante formação geral",
+                                "25.05.2022 à 24.05.2024 (primeiro mandato)"
+                            ],
+                            [
+                                "Roberta Akemi Sinoara",
+                                "Coordenadoria de Pesquisa, Inovação e Pós-graduação",
+                                "25.05.2022 à 24.05.2024 (primeiro mandato)"
+                            ],
+                            [
+                                "Juliana Cristina Barbosa Cazaça",
+                                "Coordenadoria de Extensão",
+                                "25.05.2022 à 24.05.2024 (primeiro mandato)"
+                            ],
+                            [
+                                "Regiane Miranda de Andrade",
+                                "Técnica em Assunto Educacionais",
+                                "25.05.2022 à 24.05.2024 (primeiro mandato)"
+                            ]
+                        ],
+                        "md": "|Servidor|Representação|Mandato|\n|---|---|---|\n|Adriana Nascimento de Jesus|Coordenadora do curso|08.03.2023 à 08.03.2025 (primeiro mandato)|\n|Hilton Carlos de Miranda Mello|Representante formação profissional|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Otávio Luiz Medeiros Tibagy|Representante formação profissional|28.09.2022 à 28.09.2024 (primeiro mandato)|\n|Gustavo Vinicius Santana|Representante formação profissional|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Sergio Tadeu Albardeiro|Representante formação profissional|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Juliana Regina Basilio|Representante formação geral|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Diogo Henrique Constantino Coledam|Representante formação geral|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Roberta Akemi Sinoara|Coordenadoria de Pesquisa, Inovação e Pós-graduação|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Juliana Cristina Barbosa Cazaça|Coordenadoria de Extensão|25.05.2022 à 24.05.2024 (primeiro mandato)|\n|Regiane Miranda de Andrade|Técnica em Assunto Educacionais|25.05.2022 à 24.05.2024 (primeiro mandato)|",
+                        "isPerfectTable": true,
+                        "csv": "\"Servidor\",\"Representação\",\"Mandato\"\n\"Adriana Nascimento de Jesus\",\"Coordenadora do curso\",\"08.03.2023 à 08.03.2025 (primeiro mandato)\"\n\"Hilton Carlos de Miranda Mello\",\"Representante formação profissional\",\"25.05.2022 à 24.05.2024 (primeiro mandato)\"\n\"Otávio Luiz Medeiros Tibagy\",\"Representante formação profissional\",\"28.09.2022 à 28.09.2024 (primeiro mandato)\"\n\"Gustavo Vinicius Santana\",\"Representante formação profissional\",\"25.05.2022 à 24.05.2024 (primeiro mandato)\"\n\"Sergio Tadeu Albardeiro\",\"Representante formação profissional\",\"25.05.2022 à 24.05.2024 (primeiro mandato)\"\n\"Juliana Regina Basilio\",\"Representante formação geral\",\"25.05.2022 à 24.05.2024 (primeiro mandato)\"\n\"Diogo Henrique Constantino Coledam\",\"Representante formação geral\",\"25.05.2022 à 24.05.2024 (primeiro mandato)\"\n\"Roberta Akemi Sinoara\",\"Coordenadoria de Pesquisa, Inovação e Pós-graduação\",\"25.05.2022 à 24.05.2024 (primeiro mandato)\"\n\"Juliana Cristina Barbosa Cazaça\",\"Coordenadoria de Extensão\",\"25.05.2022 à 24.05.2024 (primeiro mandato)\"\n\"Regiane Miranda de Andrade\",\"Técnica em Assunto Educacionais\",\"25.05.2022 à 24.05.2024 (primeiro mandato)\""
+                    }
+                ]
+            },
+            {
+                "page": 2,
+                "text": "                                                                                                          Josivan de Souza                                                              Comunidade Externa                                                                                                                           25.05.2022 à\n                                                                                                          Lima                                                                                                                                                                                                                       24.05.2024 (primeiro\n                                                                                                                                                                                                                                                                                                                                     mandato)\n\n\n                                                                                                          Beatriz Rodrigues                                                             Discente                                                                                                                                     25.05.2022 à\n                                                                                                          Moreira                                                                                                                                                                                                                    24.05.2024 (primeiro\n                                                                                                                                                                                                                                                                                                                                     mandato)\n                                                                                                          Rogerio Ribeiro da                                                            Discente                                                                                                                                     25.05.2022 à\n                                                                                                          Silva                                                                                                                                                                                                                      24.05.2024 (primeiro\n                                                                                                                                                                                                                                                                                                                                     mandato)\n\n\nArt. 2º - Ficará a cargo do Presidente da Comissão, organizar as reuniões, que deverão ser registradas em ata\nespecífica contendo o tema ou pauta da reunião e assinaturas dos presentes. Estes registros deverão ser\nencaminhados, no prazo de 10 (dez) dias, após cada reunião, à Direção Adjunta Educacional do Câmpus.\n\n\nArt. 3.º - Cada membro da Comissão supracitada terá direito a 1 (uma) hora semanal de dedicação para as\natividades da comissão.\n\n\nArt. 4º - Revogar a PORTARIA BTV.078/2022, DE 05 DE OUTUBRO DE 2022.\n\n\nArt. 5º - Esta Portaria tem vigência até o dia 08 de março de 2025.\n\n\nArt. 6º - Esta Portaria entra em vigor na data de sua publicação.\n                                                                                                                  De ciência.\n                                                                                                                  Publique-se.\n                                                                                                                                                                                                       Documento assinado eletronicamente.\n                                                                                                                                                                                                 FELIPE AUGUSTO FERREIRA DE ALMEIDA\n\n\n                                                                                                                                                                                                                                                                                      Publicado no site institucional em 12.04.2023\n\n\n            Documento assinado eletronicamente por:\n                    Felipe Augusto Ferreira de Almeida , DIRETOR(A) GERAL - CD2 - DRG/BTV, em 12/04/2023 18:41:44.\n                                                                                                                  Felipe Augusto Ferreira de Almeida  DIRETOR(A) GERAL - CD2 - DRG/BTV\n\n\n            Este documento foi emiPdo pelo SUAP em 11/04/2023. Para comprovar sua autenPcidade, faça a leitura do QRCode ao lado ou acesse\n            https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\n\n            Código Verificador:530778\n            Código de Autenticação:b3a51101f1\n\n\n                                                                                                                                                                                                                PORTARIA Nº 13/2023 - DRG/BTV/IFSP\n                                                                                                                                                                                                                                                  PORTARIA Nº 13/2023 - DRG/BTV/IFSP",
+                "md": "# Josivan de Souza\n\nComunidade Externa\n\n25.05.2022 à Lima 24.05.2024 (primeiro mandato)\n\n# Beatriz Rodrigues\n\nDiscente\n\n25.05.2022 à Moreira 24.05.2024 (primeiro mandato)\n\n# Rogerio Ribeiro da\n\nDiscente\n\n25.05.2022 à Silva 24.05.2024 (primeiro mandato)\n\nArt. 2º - Ficará a cargo do Presidente da Comissão, organizar as reuniões, que deverão ser registradas em ata específica contendo o tema ou pauta da reunião e assinaturas dos presentes. Estes registros deverão ser encaminhados, no prazo de 10 (dez) dias, após cada reunião, à Direção Adjunta Educacional do Câmpus.\n\nArt. 3.º - Cada membro da Comissão supracitada terá direito a 1 (uma) hora semanal de dedicação para as atividades da comissão.\n\nArt. 4º - Revogar a PORTARIA BTV.078/2022, DE 05 DE OUTUBRO DE 2022.\n\nArt. 5º - Esta Portaria tem vigência até o dia 08 de março de 2025.\n\nArt. 6º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 12.04.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida , DIRETOR(A) GERAL - CD2 - DRG/BTV, em 12/04/2023 18:41:44.\n\nFelipe Augusto Ferreira de Almeida DIRETOR(A) GERAL - CD2 - DRG/BTV\n\nEste documento foi emiPdo pelo SUAP em 11/04/2023. Para comprovar sua autenPcidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador:530778\n\nCódigo de Autenticação:b3a51101f1\n\nPORTARIA Nº 13/2023 - DRG/BTV/IFSP\n\nPORTARIA Nº 13/2023 - DRG/BTV/IFSP",
+                "images": [
+                    {
+                        "name": "img_p1_1.png",
+                        "height": 162,
+                        "width": 719
+                    },
+                    {
+                        "name": "img_p1_2.png",
+                        "height": 115,
+                        "width": 115
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Josivan de Souza",
+                        "md": "# Josivan de Souza"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Comunidade Externa\n\n25.05.2022 à Lima 24.05.2024 (primeiro mandato)",
+                        "md": "Comunidade Externa\n\n25.05.2022 à Lima 24.05.2024 (primeiro mandato)"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Beatriz Rodrigues",
+                        "md": "# Beatriz Rodrigues"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Discente\n\n25.05.2022 à Moreira 24.05.2024 (primeiro mandato)",
+                        "md": "Discente\n\n25.05.2022 à Moreira 24.05.2024 (primeiro mandato)"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Rogerio Ribeiro da",
+                        "md": "# Rogerio Ribeiro da"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Discente\n\n25.05.2022 à Silva 24.05.2024 (primeiro mandato)\n\nArt. 2º - Ficará a cargo do Presidente da Comissão, organizar as reuniões, que deverão ser registradas em ata específica contendo o tema ou pauta da reunião e assinaturas dos presentes. Estes registros deverão ser encaminhados, no prazo de 10 (dez) dias, após cada reunião, à Direção Adjunta Educacional do Câmpus.\n\nArt. 3.º - Cada membro da Comissão supracitada terá direito a 1 (uma) hora semanal de dedicação para as atividades da comissão.\n\nArt. 4º - Revogar a PORTARIA BTV.078/2022, DE 05 DE OUTUBRO DE 2022.\n\nArt. 5º - Esta Portaria tem vigência até o dia 08 de março de 2025.\n\nArt. 6º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 12.04.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida , DIRETOR(A) GERAL - CD2 - DRG/BTV, em 12/04/2023 18:41:44.\n\nFelipe Augusto Ferreira de Almeida DIRETOR(A) GERAL - CD2 - DRG/BTV\n\nEste documento foi emiPdo pelo SUAP em 11/04/2023. Para comprovar sua autenPcidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador:530778\n\nCódigo de Autenticação:b3a51101f1\n\nPORTARIA Nº 13/2023 - DRG/BTV/IFSP\n\nPORTARIA Nº 13/2023 - DRG/BTV/IFSP",
+                        "md": "Discente\n\n25.05.2022 à Silva 24.05.2024 (primeiro mandato)\n\nArt. 2º - Ficará a cargo do Presidente da Comissão, organizar as reuniões, que deverão ser registradas em ata específica contendo o tema ou pauta da reunião e assinaturas dos presentes. Estes registros deverão ser encaminhados, no prazo de 10 (dez) dias, após cada reunião, à Direção Adjunta Educacional do Câmpus.\n\nArt. 3.º - Cada membro da Comissão supracitada terá direito a 1 (uma) hora semanal de dedicação para as atividades da comissão.\n\nArt. 4º - Revogar a PORTARIA BTV.078/2022, DE 05 DE OUTUBRO DE 2022.\n\nArt. 5º - Esta Portaria tem vigência até o dia 08 de março de 2025.\n\nArt. 6º - Esta Portaria entra em vigor na data de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 12.04.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida , DIRETOR(A) GERAL - CD2 - DRG/BTV, em 12/04/2023 18:41:44.\n\nFelipe Augusto Ferreira de Almeida DIRETOR(A) GERAL - CD2 - DRG/BTV\n\nEste documento foi emiPdo pelo SUAP em 11/04/2023. Para comprovar sua autenPcidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\nCódigo Verificador:530778\n\nCódigo de Autenticação:b3a51101f1\n\nPORTARIA Nº 13/2023 - DRG/BTV/IFSP\n\nPORTARIA Nº 13/2023 - DRG/BTV/IFSP"
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 886.0,
+            "credits_max": 1000,
+            "job_credits_usage": 2,
+            "job_pages": 2,
+            "job_is_cache_hit": false
+        },
+        "job_id": "249024ae-94ae-4a52-be3e-4af421ebb795",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2023/04 - Abril/Abr_Port_0013_Rev e Designar a CEIC do PPC de Automação Industrial Concomitante-Subsequente_BTV.pdf"
+    }
+]

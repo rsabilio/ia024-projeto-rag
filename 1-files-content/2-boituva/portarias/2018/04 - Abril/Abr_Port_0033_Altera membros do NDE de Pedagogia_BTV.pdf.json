@@ -1,0 +1,98 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "      INSTITUTO FEDERAL DE EDUCACAO, CIENCIAE TECNOLOGIA DE SAO PAULOMINISTERIO DA EDUCACAO\n                 PORTARIA BTV.0033/2018, DE 05 DE ABRIL DE 2018_\n                                                                AlteraPedagogiado\n                                                                curso   membros          NDE   do\n                    DIRETOR-GERAL            DO    CAMPUSBOITUVA              DOINSTITUTO\n FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIADE SAO PAULO, no usO\n de suas atribuicoes legais delegadaspelaPortaria IFSP n\" 3.903, de 04 de novembro de\n 2015,\n         RESOLVE:\n         Art: 1.    ALTERAR os servidores abaixo relacionados para, sob a coordenacao\n presidenciado   primeiro,     constituirem      Nucleo   DocenteEstruturante do   Cursode\n Pedagogia do Campus Boituva:\n                  Nome do professor                            Titulacao            Regime de\n                                                                                     Trabalho\nMaryGrace Pereira Andrioli                                  Doutora             RDE\nEmerson Ferreira Gomes                                      Doutor              RDE\nAgnes Cruz de Souza                                         Doutora             RDE\nDiogoComitre                                                Mestre              RDE\nCarlos Henrique Menezes Garcia                              Doutor              RDE\nPatricia Neves de Almeida                                   Mestre              RDE\nEliane Aparecida Bacocina                                   Doutora             RDE\nElaine Andrade Peres Fernandes                              Especialista        RDE\n                                                            (mestranda)\n         Art: 2.5  Esta portaria entra em vigor nesta data:\n                                    BRUNO NOGUEIRA LUZ\n                                                                             Publicado em:",
+                "md": "# INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SAO PAULO MINISTERIO DA EDUCACAO\n\nPORTARIA BTV.0033/2018, DE 05 DE ABRIL DE 2018\n\nAltera Pedagogia do curso membros NDE do DIRETOR-GERAL DO CAMPUS BOITUVA DO INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SAO PAULO, no uso de suas atribuicoes legais delegadas pela Portaria IFSP n\" 3.903, de 04 de novembro de 2015,\n\nRESOLVE:\n\nArt: 1. ALTERAR os servidores abaixo relacionados para, sob a coordenacao presidencial do primeiro, constituirem Nucleo Docente Estruturante do Curso de Pedagogia do Campus Boituva:\n\n|Nome do professor|Titulacao|Regime de Trabalho|\n|---|---|---|\n|Mary Grace Pereira Andrioli|Doutora|RDE|\n|Emerson Ferreira Gomes|Doutor|RDE|\n|Agnes Cruz de Souza|Doutora|RDE|\n|Diogo Comitre|Mestre|RDE|\n|Carlos Henrique Menezes Garcia|Doutor|RDE|\n|Patricia Neves de Almeida|Mestre|RDE|\n|Eliane Aparecida Bacocina|Doutora|RDE|\n|Elaine Andrade Peres Fernandes (mestranda)|Especialista|RDE|\n\nArt: 2.5 Esta portaria entra em vigor nesta data:\n\nBRUNO NOGUEIRA LUZ\n\nPublicado em:",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 1584,
+                        "width": 1224
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SAO PAULO MINISTERIO DA EDUCACAO",
+                        "md": "# INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SAO PAULO MINISTERIO DA EDUCACAO"
+                    },
+                    {
+                        "type": "text",
+                        "value": "PORTARIA BTV.0033/2018, DE 05 DE ABRIL DE 2018\n\nAltera Pedagogia do curso membros NDE do DIRETOR-GERAL DO CAMPUS BOITUVA DO INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SAO PAULO, no uso de suas atribuicoes legais delegadas pela Portaria IFSP n\" 3.903, de 04 de novembro de 2015,\n\nRESOLVE:\n\nArt: 1. ALTERAR os servidores abaixo relacionados para, sob a coordenacao presidencial do primeiro, constituirem Nucleo Docente Estruturante do Curso de Pedagogia do Campus Boituva:",
+                        "md": "PORTARIA BTV.0033/2018, DE 05 DE ABRIL DE 2018\n\nAltera Pedagogia do curso membros NDE do DIRETOR-GERAL DO CAMPUS BOITUVA DO INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SAO PAULO, no uso de suas atribuicoes legais delegadas pela Portaria IFSP n\" 3.903, de 04 de novembro de 2015,\n\nRESOLVE:\n\nArt: 1. ALTERAR os servidores abaixo relacionados para, sob a coordenacao presidencial do primeiro, constituirem Nucleo Docente Estruturante do Curso de Pedagogia do Campus Boituva:"
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Nome do professor",
+                                "Titulacao",
+                                "Regime de Trabalho"
+                            ],
+                            [
+                                "Mary Grace Pereira Andrioli",
+                                "Doutora",
+                                "RDE"
+                            ],
+                            [
+                                "Emerson Ferreira Gomes",
+                                "Doutor",
+                                "RDE"
+                            ],
+                            [
+                                "Agnes Cruz de Souza",
+                                "Doutora",
+                                "RDE"
+                            ],
+                            [
+                                "Diogo Comitre",
+                                "Mestre",
+                                "RDE"
+                            ],
+                            [
+                                "Carlos Henrique Menezes Garcia",
+                                "Doutor",
+                                "RDE"
+                            ],
+                            [
+                                "Patricia Neves de Almeida",
+                                "Mestre",
+                                "RDE"
+                            ],
+                            [
+                                "Eliane Aparecida Bacocina",
+                                "Doutora",
+                                "RDE"
+                            ],
+                            [
+                                "Elaine Andrade Peres Fernandes (mestranda)",
+                                "Especialista",
+                                "RDE"
+                            ]
+                        ],
+                        "md": "|Nome do professor|Titulacao|Regime de Trabalho|\n|---|---|---|\n|Mary Grace Pereira Andrioli|Doutora|RDE|\n|Emerson Ferreira Gomes|Doutor|RDE|\n|Agnes Cruz de Souza|Doutora|RDE|\n|Diogo Comitre|Mestre|RDE|\n|Carlos Henrique Menezes Garcia|Doutor|RDE|\n|Patricia Neves de Almeida|Mestre|RDE|\n|Eliane Aparecida Bacocina|Doutora|RDE|\n|Elaine Andrade Peres Fernandes (mestranda)|Especialista|RDE|",
+                        "isPerfectTable": true,
+                        "csv": "\"Nome do professor\",\"Titulacao\",\"Regime de Trabalho\"\n\"Mary Grace Pereira Andrioli\",\"Doutora\",\"RDE\"\n\"Emerson Ferreira Gomes\",\"Doutor\",\"RDE\"\n\"Agnes Cruz de Souza\",\"Doutora\",\"RDE\"\n\"Diogo Comitre\",\"Mestre\",\"RDE\"\n\"Carlos Henrique Menezes Garcia\",\"Doutor\",\"RDE\"\n\"Patricia Neves de Almeida\",\"Mestre\",\"RDE\"\n\"Eliane Aparecida Bacocina\",\"Doutora\",\"RDE\"\n\"Elaine Andrade Peres Fernandes (mestranda)\",\"Especialista\",\"RDE\""
+                    },
+                    {
+                        "type": "text",
+                        "value": "Art: 2.5 Esta portaria entra em vigor nesta data:\n\nBRUNO NOGUEIRA LUZ\n\nPublicado em:",
+                        "md": "Art: 2.5 Esta portaria entra em vigor nesta data:\n\nBRUNO NOGUEIRA LUZ\n\nPublicado em:"
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 739.0,
+            "credits_max": 1000,
+            "job_credits_usage": 1,
+            "job_pages": 1,
+            "job_is_cache_hit": false
+        },
+        "job_id": "b2728bd9-5d85-44c3-8cec-f6328b9b77ac",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2018/04 - Abril/Abr_Port_0033_Altera membros do NDE de Pedagogia_BTV.pdf"
+    }
+]

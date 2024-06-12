@@ -1,0 +1,211 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "                                                          MINISTÉRIO DA EDUCAÇÃO\n                                                                                MINISTÉRIO DA EDUCAÇÃO\n                             INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n                                                                                             INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n                                                                CÂMPUS BOITUVA\n                                                                              CÂMPUS BOITUVA\n\n\n                                   PORTARIA Nº 11/2023 - DRG/BTV/IFSP DE 22 DE MARÇO DE 2023\n                                                                                            PORTARIA Nº 11/2023 - DRG/BTV/IFSP DE 22 DE MARÇO DE 2023\n\n\nO DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE\nSÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015,\n\n\nRESOLVE:\n\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a coordenação e presidência do primeiro,\ncons<tuírem a Comissão Local para revisão do Projeto Polí<co Pedagógico (PPP) do Câmpus Boituva,\nconforme abaixo:\n\n\n                                         REPRESENTAÇÃO\n                                                      REPRESENTAÇÃO                                NOME\n                                                                                                       NOME\n\n\n                        Diretor Adjunto de Ensino                              Flávio Aparecido Pontes\n\n\n                                                                               Jair Manoel Casquel Junior\n                        Representantes do corpo docente                        Marcelo Figueiredo Polido\n                                                                               Eline Gomes de Oliveira Zioli\n                                                                               Andreza Silva Areao\n                                                                               Tarcila Cazetta\n                                                                               Israel Mendes da Silva\n                                                                               Felipe Alexandre Cardoso Pazinatto\n                                                                               Adriana Nascimento de Jesus\n\n\n                        Pedagoga                                               Alice Antonia Dondoni Neta\n\n\n                        Representante da coordenadoria de pesquisa             Roberta Akemi Sinoara\n\n\n                        Representante da coordenadoria de extensão             Juliana Cristina Barbosa Cazaça\n\n\n                                                                               Bianca Arantes Teles\n                        Representantes do corpo discente                       Bruna Manteiga Bastos\n                                                                               Luiz Henrique Traversim Rosa\n                                                                               Giulia Vieira da Silva\n\n\n                        Representante da comunidade externa                    Rodrigo Amadio Pacheco\n\n\n                        Representante do corpo técnico-administrativo          Rafael Augusto Rocha Maia\n\n\nArt. 2º - A Comissão Local deve organizar o cronograma de atividades em articulação com o trabalho\norganizado pela comissão do PDI.\nArt. 3º - O documento deve ser aprovado pelo CONCAM e, após a sua aprovação, disponibilizado na página do\ncâmpus.",
+                "md": "# MINISTÉRIO DA EDUCAÇÃO\n\n# INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO\n\n# CÂMPUS BOITUVA\n\n# PORTARIA Nº 11/2023 - DRG/BTV/IFSP DE 22 DE MARÇO DE 2023\n\nO DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a coordenação e presidência do primeiro, constituírem a Comissão Local para revisão do Projeto Político Pedagógico (PPP) do Câmpus Boituva, conforme abaixo:\n\n|REPRESENTAÇÃO|NOME|\n|---|---|\n|Diretor Adjunto de Ensino|Flávio Aparecido Pontes|\n|Representantes do corpo docente|Jair Manoel Casquel Junior|\n| |Marcelo Figueiredo Polido|\n| |Eline Gomes de Oliveira Zioli|\n| |Andreza Silva Areao|\n| |Tarcila Cazetta|\n| |Israel Mendes da Silva|\n| |Felipe Alexandre Cardoso Pazinatto|\n| |Adriana Nascimento de Jesus|\n|Pedagoga|Alice Antonia Dondoni Neta|\n|Representante da coordenadoria de pesquisa|Roberta Akemi Sinoara|\n|Representante da coordenadoria de extensão|Juliana Cristina Barbosa Cazaça|\n| |Bianca Arantes Teles|\n|Representantes do corpo discente|Bruna Manteiga Bastos|\n| |Luiz Henrique Traversim Rosa|\n| |Giulia Vieira da Silva|\n|Representante da comunidade externa|Rodrigo Amadio Pacheco|\n|Representante do corpo técnico-administrativo|Rafael Augusto Rocha Maia|\n\nArt. 2º - A Comissão Local deve organizar o cronograma de atividades em articulação com o trabalho organizado pela comissão do PDI.\n\nArt. 3º - O documento deve ser aprovado pelo CONCAM e, após a sua aprovação, disponibilizado na página do câmpus.",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 119,
+                        "width": 121
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "MINISTÉRIO DA EDUCAÇÃO",
+                        "md": "# MINISTÉRIO DA EDUCAÇÃO"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO",
+                        "md": "# INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "CÂMPUS BOITUVA",
+                        "md": "# CÂMPUS BOITUVA"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "PORTARIA Nº 11/2023 - DRG/BTV/IFSP DE 22 DE MARÇO DE 2023",
+                        "md": "# PORTARIA Nº 11/2023 - DRG/BTV/IFSP DE 22 DE MARÇO DE 2023"
+                    },
+                    {
+                        "type": "text",
+                        "value": "O DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a coordenação e presidência do primeiro, constituírem a Comissão Local para revisão do Projeto Político Pedagógico (PPP) do Câmpus Boituva, conforme abaixo:",
+                        "md": "O DIRETOR-GERAL DO CÂMPUS BOITUVA, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO, no uso de suas atribuições legais delegadas pela Portaria nº 3.903, de 04 de novembro de 2015,\n\nRESOLVE:\n\nArt. 1.º - DESIGNAR, os servidores abaixo relacionados para, sob a coordenação e presidência do primeiro, constituírem a Comissão Local para revisão do Projeto Político Pedagógico (PPP) do Câmpus Boituva, conforme abaixo:"
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "REPRESENTAÇÃO",
+                                "NOME"
+                            ],
+                            [
+                                "Diretor Adjunto de Ensino",
+                                "Flávio Aparecido Pontes"
+                            ],
+                            [
+                                "Representantes do corpo docente",
+                                "Jair Manoel Casquel Junior"
+                            ],
+                            [
+                                "",
+                                "Marcelo Figueiredo Polido"
+                            ],
+                            [
+                                "",
+                                "Eline Gomes de Oliveira Zioli"
+                            ],
+                            [
+                                "",
+                                "Andreza Silva Areao"
+                            ],
+                            [
+                                "",
+                                "Tarcila Cazetta"
+                            ],
+                            [
+                                "",
+                                "Israel Mendes da Silva"
+                            ],
+                            [
+                                "",
+                                "Felipe Alexandre Cardoso Pazinatto"
+                            ],
+                            [
+                                "",
+                                "Adriana Nascimento de Jesus"
+                            ],
+                            [
+                                "Pedagoga",
+                                "Alice Antonia Dondoni Neta"
+                            ],
+                            [
+                                "Representante da coordenadoria de pesquisa",
+                                "Roberta Akemi Sinoara"
+                            ],
+                            [
+                                "Representante da coordenadoria de extensão",
+                                "Juliana Cristina Barbosa Cazaça"
+                            ],
+                            [
+                                "",
+                                "Bianca Arantes Teles"
+                            ],
+                            [
+                                "Representantes do corpo discente",
+                                "Bruna Manteiga Bastos"
+                            ],
+                            [
+                                "",
+                                "Luiz Henrique Traversim Rosa"
+                            ],
+                            [
+                                "",
+                                "Giulia Vieira da Silva"
+                            ],
+                            [
+                                "Representante da comunidade externa",
+                                "Rodrigo Amadio Pacheco"
+                            ],
+                            [
+                                "Representante do corpo técnico-administrativo",
+                                "Rafael Augusto Rocha Maia"
+                            ]
+                        ],
+                        "md": "|REPRESENTAÇÃO|NOME|\n|---|---|\n|Diretor Adjunto de Ensino|Flávio Aparecido Pontes|\n|Representantes do corpo docente|Jair Manoel Casquel Junior|\n| |Marcelo Figueiredo Polido|\n| |Eline Gomes de Oliveira Zioli|\n| |Andreza Silva Areao|\n| |Tarcila Cazetta|\n| |Israel Mendes da Silva|\n| |Felipe Alexandre Cardoso Pazinatto|\n| |Adriana Nascimento de Jesus|\n|Pedagoga|Alice Antonia Dondoni Neta|\n|Representante da coordenadoria de pesquisa|Roberta Akemi Sinoara|\n|Representante da coordenadoria de extensão|Juliana Cristina Barbosa Cazaça|\n| |Bianca Arantes Teles|\n|Representantes do corpo discente|Bruna Manteiga Bastos|\n| |Luiz Henrique Traversim Rosa|\n| |Giulia Vieira da Silva|\n|Representante da comunidade externa|Rodrigo Amadio Pacheco|\n|Representante do corpo técnico-administrativo|Rafael Augusto Rocha Maia|",
+                        "isPerfectTable": true,
+                        "csv": "\"REPRESENTAÇÃO\",\"NOME\"\n\"Diretor Adjunto de Ensino\",\"Flávio Aparecido Pontes\"\n\"Representantes do corpo docente\",\"Jair Manoel Casquel Junior\"\n\"\",\"Marcelo Figueiredo Polido\"\n\"\",\"Eline Gomes de Oliveira Zioli\"\n\"\",\"Andreza Silva Areao\"\n\"\",\"Tarcila Cazetta\"\n\"\",\"Israel Mendes da Silva\"\n\"\",\"Felipe Alexandre Cardoso Pazinatto\"\n\"\",\"Adriana Nascimento de Jesus\"\n\"Pedagoga\",\"Alice Antonia Dondoni Neta\"\n\"Representante da coordenadoria de pesquisa\",\"Roberta Akemi Sinoara\"\n\"Representante da coordenadoria de extensão\",\"Juliana Cristina Barbosa Cazaça\"\n\"\",\"Bianca Arantes Teles\"\n\"Representantes do corpo discente\",\"Bruna Manteiga Bastos\"\n\"\",\"Luiz Henrique Traversim Rosa\"\n\"\",\"Giulia Vieira da Silva\"\n\"Representante da comunidade externa\",\"Rodrigo Amadio Pacheco\"\n\"Representante do corpo técnico-administrativo\",\"Rafael Augusto Rocha Maia\""
+                    },
+                    {
+                        "type": "text",
+                        "value": "Art. 2º - A Comissão Local deve organizar o cronograma de atividades em articulação com o trabalho organizado pela comissão do PDI.\n\nArt. 3º - O documento deve ser aprovado pelo CONCAM e, após a sua aprovação, disponibilizado na página do câmpus.",
+                        "md": "Art. 2º - A Comissão Local deve organizar o cronograma de atividades em articulação com o trabalho organizado pela comissão do PDI.\n\nArt. 3º - O documento deve ser aprovado pelo CONCAM e, após a sua aprovação, disponibilizado na página do câmpus."
+                    }
+                ]
+            },
+            {
+                "page": 2,
+                "text": "Art. 4º - Esta Portaria tem vigência até o dia 31 de dezembro de 2023.\n\n\nArt. 5º - Esta Portaria entra em vigor a partir de sua publicação.\n\n\nDe ciência.\n\n\nPublique-se.\n                                                                          Documento assinado eletronicamente.\n                                                                        FELIPE AUGUSTO FERREIRA DE ALMEIDA\n\n\n                                                                                                                    Publicado no site institucional em 22.03.2023\n\n\n    Documento assinado eletronicamente por:\n      Felipe Augusto Ferreira de Almeida\n                                        Felipe Augusto Ferreira de Almeida, DIRETOR(A) GERAL - CD2 - DRG/BTVDIRETOR(A) GERAL - CD2 - DRG/BTV, em 22/03/2023 19:46:27.\n\n\n    Este documento foi emi<do pelo SUAP em 22/03/2023. Para comprovar sua auten<cidade, faça a leitura do QRCode ao lado ou acesse\n    https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\n\n    Código Verificador:   518401\n    Código de Autenticação:57451d7b66\n\n\n                                                                             PORTARIA Nº 11/2023 - DRG/BTV/IFSP\n                                                                                                               PORTARIA Nº 11/2023 - DRG/BTV/IFSP",
+                "md": "# Art. 4º - Esta Portaria tem vigência até o dia 31 de dezembro de 2023.\n\n# Art. 5º - Esta Portaria entra em vigor a partir de sua publicação.\n\nDe ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 22.03.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida\n\nFelipe Augusto Ferreira de Almeida, DIRETOR(A) GERAL - CD2 - DRG/BTV DIRETOR(A) GERAL - CD2 - DRG/BTV, em 22/03/2023 19:46:27.\n\nEste documento foi emitido pelo SUAP em 22/03/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:\n\n|Código Verificador:|518401|\n|---|---|\n|Código de Autenticação:|57451d7b66|\n\n# PORTARIA Nº 11/2023 - DRG/BTV/IFSP\n\n# PORTARIA Nº 11/2023 - DRG/BTV/IFSP",
+                "images": [
+                    {
+                        "name": "img_p1_1.png",
+                        "height": 162,
+                        "width": 719
+                    },
+                    {
+                        "name": "img_p1_2.png",
+                        "height": 115,
+                        "width": 115
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Art. 4º - Esta Portaria tem vigência até o dia 31 de dezembro de 2023.",
+                        "md": "# Art. 4º - Esta Portaria tem vigência até o dia 31 de dezembro de 2023."
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Art. 5º - Esta Portaria entra em vigor a partir de sua publicação.",
+                        "md": "# Art. 5º - Esta Portaria entra em vigor a partir de sua publicação."
+                    },
+                    {
+                        "type": "text",
+                        "value": "De ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 22.03.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida\n\nFelipe Augusto Ferreira de Almeida, DIRETOR(A) GERAL - CD2 - DRG/BTV DIRETOR(A) GERAL - CD2 - DRG/BTV, em 22/03/2023 19:46:27.\n\nEste documento foi emitido pelo SUAP em 22/03/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:",
+                        "md": "De ciência.\n\nPublique-se.\n\nDocumento assinado eletronicamente.\n\nFELIPE AUGUSTO FERREIRA DE ALMEIDA\n\nPublicado no site institucional em 22.03.2023\n\nDocumento assinado eletronicamente por:\n\nFelipe Augusto Ferreira de Almeida\n\nFelipe Augusto Ferreira de Almeida, DIRETOR(A) GERAL - CD2 - DRG/BTV DIRETOR(A) GERAL - CD2 - DRG/BTV, em 22/03/2023 19:46:27.\n\nEste documento foi emitido pelo SUAP em 22/03/2023. Para comprovar sua autenticidade, faça a leitura do QRCode ao lado ou acesse https://suap.ifsp.edu.br/autenticar-documento/ e forneça os dados abaixo:"
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Código Verificador:",
+                                "518401"
+                            ],
+                            [
+                                "Código de Autenticação:",
+                                "57451d7b66"
+                            ]
+                        ],
+                        "md": "|Código Verificador:|518401|\n|---|---|\n|Código de Autenticação:|57451d7b66|",
+                        "isPerfectTable": true,
+                        "csv": "\"Código Verificador:\",\"518401\"\n\"Código de Autenticação:\",\"57451d7b66\""
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "PORTARIA Nº 11/2023 - DRG/BTV/IFSP",
+                        "md": "# PORTARIA Nº 11/2023 - DRG/BTV/IFSP"
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "PORTARIA Nº 11/2023 - DRG/BTV/IFSP",
+                        "md": "# PORTARIA Nº 11/2023 - DRG/BTV/IFSP"
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 796.0,
+            "credits_max": 1000,
+            "job_credits_usage": 2,
+            "job_pages": 2,
+            "job_is_cache_hit": false
+        },
+        "job_id": "7644b5e3-8908-4384-9b93-8629049faa24",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2023/03 - Março/Mar_Port_0011_Comissão Local para revisão do PPP do Câmpus Boituva do IFSP_BTV.pdf"
+    }
+]
