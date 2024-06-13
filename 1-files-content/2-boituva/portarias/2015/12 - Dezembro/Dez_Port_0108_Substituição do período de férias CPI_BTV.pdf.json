@@ -1,0 +1,93 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "  9  1118VA1\n     7F\n       1#\n     8\n      W8    K080118LH7\n                    3 118\n      H9\n        87  21\n            WgVI1     121\n^1     80   8      5\n      Je     H335 78  7\n       88         8\n             8",
+                "md": "|9|1118VA1|\n|---|---|\n|7F| |\n|1#| |\n|8| |\n|W8|K080118LH7|3 118|\n|H9| |\n|87|21|\n|WgVI1|121|\n|80|8|5|\n|Je|H335|78|7|\n|88| |\n|8| |\n|8| |",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 1684,
+                        "width": 1191
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "9",
+                                "1118VA1"
+                            ],
+                            [
+                                "7F",
+                                ""
+                            ],
+                            [
+                                "1#",
+                                ""
+                            ],
+                            [
+                                "8",
+                                ""
+                            ],
+                            [
+                                "W8",
+                                "K080118LH7",
+                                "3 118"
+                            ],
+                            [
+                                "H9",
+                                ""
+                            ],
+                            [
+                                "87",
+                                "21"
+                            ],
+                            [
+                                "WgVI1",
+                                "121"
+                            ],
+                            [
+                                "80",
+                                "8",
+                                "5"
+                            ],
+                            [
+                                "Je",
+                                "H335",
+                                "78",
+                                "7"
+                            ],
+                            [
+                                "88",
+                                ""
+                            ],
+                            [
+                                "8",
+                                ""
+                            ],
+                            [
+                                "8",
+                                ""
+                            ]
+                        ],
+                        "md": "|9|1118VA1|\n|---|---|\n|7F| |\n|1#| |\n|8| |\n|W8|K080118LH7|3 118|\n|H9| |\n|87|21|\n|WgVI1|121|\n|80|8|5|\n|Je|H335|78|7|\n|88| |\n|8| |\n|8| |",
+                        "isPerfectTable": false,
+                        "csv": "\"9\",\"1118VA1\"\n\"7F\",\"\"\n\"1#\",\"\"\n\"8\",\"\"\n\"W8\",\"K080118LH7\",\"3 118\"\n\"H9\",\"\"\n\"87\",\"21\"\n\"WgVI1\",\"121\"\n\"80\",\"8\",\"5\"\n\"Je\",\"H335\",\"78\",\"7\"\n\"88\",\"\"\n\"8\",\"\"\n\"8\",\"\""
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 15.0,
+            "credits_max": 1000,
+            "job_credits_usage": 1,
+            "job_pages": 1,
+            "job_is_cache_hit": false
+        },
+        "job_id": "370ecf29-fd7b-4696-bd32-b9fb2fe541fb",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2015/12 - Dezembro/Dez_Port_0108_Substituição do período de férias CPI_BTV.pdf"
+    }
+]

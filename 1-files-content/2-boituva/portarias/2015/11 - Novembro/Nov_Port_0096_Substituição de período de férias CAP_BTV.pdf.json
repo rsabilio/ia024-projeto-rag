@@ -1,0 +1,76 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "       #9V\n          TH11  31103       |3V\n   1   {858M     [\n                 63k     1\n   1<  H7\n       31I       2W1k   H46 131\n         J7\n0      FJu38810  W18233  8  1\n         7       8 3",
+                "md": "|#9V|\n|---|\n|TH11 31103|3V|\n|1|{858M|\n| |63k|1|\n|1|H7|\n|31I|2W1k|H46 131|\n|J7|\n|0|FJu38810|W18233|8 1|\n| |7|8 3|",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 1684,
+                        "width": 1191
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "#9V"
+                            ],
+                            [
+                                "TH11 31103",
+                                "3V"
+                            ],
+                            [
+                                "1",
+                                "{858M"
+                            ],
+                            [
+                                "",
+                                "63k",
+                                "1"
+                            ],
+                            [
+                                "1",
+                                "H7"
+                            ],
+                            [
+                                "31I",
+                                "2W1k",
+                                "H46 131"
+                            ],
+                            [
+                                "J7"
+                            ],
+                            [
+                                "0",
+                                "FJu38810",
+                                "W18233",
+                                "8 1"
+                            ],
+                            [
+                                "",
+                                "7",
+                                "8 3"
+                            ]
+                        ],
+                        "md": "|#9V|\n|---|\n|TH11 31103|3V|\n|1|{858M|\n| |63k|1|\n|1|H7|\n|31I|2W1k|H46 131|\n|J7|\n|0|FJu38810|W18233|8 1|\n| |7|8 3|",
+                        "isPerfectTable": false,
+                        "csv": "\"#9V\"\n\"TH11 31103\",\"3V\"\n\"1\",\"{858M\"\n\"\",\"63k\",\"1\"\n\"1\",\"H7\"\n\"31I\",\"2W1k\",\"H46 131\"\n\"J7\"\n\"0\",\"FJu38810\",\"W18233\",\"8 1\"\n\"\",\"7\",\"8 3\""
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 50.0,
+            "credits_max": 1000,
+            "job_credits_usage": 1,
+            "job_pages": 1,
+            "job_is_cache_hit": false
+        },
+        "job_id": "f9614de4-a379-4a71-a993-fe3b33c1dbf4",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2015/11 - Novembro/Nov_Port_0096_Substituição de período de férias CAP_BTV.pdf"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "      WVV1\n      U1   H08&   1  24IWK      11 11\n   1\n            8 &711V     3      IH\n      261   H\n             1        3771liIi1111WH |12\n   <\n            3 2       72\n9           0N82IF    W88   1Hi    61\n            3         8 3",
+                "md": "|WVV1|\n|---|\n|U1|H08&amp;|1|24IWK|11|11|\n|8 &amp;711V|3|IH|\n|261|H|\n|1|3771liIi1111WH|12|\n|3|2|72|\n|9|0N82IF|W88|1Hi|61|\n|3|8|3|",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 1684,
+                        "width": 1191
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "WVV1"
+                            ],
+                            [
+                                "U1",
+                                "H08&amp;",
+                                "1",
+                                "24IWK",
+                                "11",
+                                "11"
+                            ],
+                            [
+                                "8 &amp;711V",
+                                "3",
+                                "IH"
+                            ],
+                            [
+                                "261",
+                                "H"
+                            ],
+                            [
+                                "1",
+                                "3771liIi1111WH",
+                                "12"
+                            ],
+                            [
+                                "3",
+                                "2",
+                                "72"
+                            ],
+                            [
+                                "9",
+                                "0N82IF",
+                                "W88",
+                                "1Hi",
+                                "61"
+                            ],
+                            [
+                                "3",
+                                "8",
+                                "3"
+                            ]
+                        ],
+                        "md": "|WVV1|\n|---|\n|U1|H08&amp;|1|24IWK|11|11|\n|8 &amp;711V|3|IH|\n|261|H|\n|1|3771liIi1111WH|12|\n|3|2|72|\n|9|0N82IF|W88|1Hi|61|\n|3|8|3|",
+                        "isPerfectTable": false,
+                        "csv": "\"WVV1\"\n\"U1\",\"H08&amp;\",\"1\",\"24IWK\",\"11\",\"11\"\n\"8 &amp;711V\",\"3\",\"IH\"\n\"261\",\"H\"\n\"1\",\"3771liIi1111WH\",\"12\"\n\"3\",\"2\",\"72\"\n\"9\",\"0N82IF\",\"W88\",\"1Hi\",\"61\"\n\"3\",\"8\",\"3\""
+                    }
+                ]
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 11.0,
+            "credits_max": 1000,
+            "job_credits_usage": 1,
+            "job_pages": 1,
+            "job_is_cache_hit": false
+        },
+        "job_id": "91dce140-7185-4f1a-ac72-a5cef952c93c",
+        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2015/12 - Dezembro/Dez_Port_0114_Designa banca examinadora professor substituto de engenharia de produção_BTV.pdf"
+    }
+]
