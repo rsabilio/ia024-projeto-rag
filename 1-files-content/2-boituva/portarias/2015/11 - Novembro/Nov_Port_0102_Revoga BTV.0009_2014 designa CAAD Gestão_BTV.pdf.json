@@ -1,34 +1,3 @@
-[
-    {
-        "pages": [
-            {
-                "page": 1,
-                "text": "       iHW5\n        0 0?37 11F71\n                [2    11  L1\n                            167IL1328[H111     7\n                                               1  172\n    1  11  HW         7     7    82V3         U\n                      1   W8                   5 13\n            1t        WJ1          IPMVl\n                                   3           23\n            H:                    8 7\n9F          E8        1F2 1F\n                          V      8:283    8311786531\n            1[        3171  18     H883   1\n                                   8 3",
-                "md": "iHW5\n0 0?37 11F71\n[2    11  L1\n167IL1328[H111     7\n1  172\n1  11  HW         7     7    82V3         U\n1   W8                   5 13\n1t        WJ1          IPMVl\n3           23\nH:                    8 7\n9F          E8        1F2 1F\nV      8:283    8311786531\n1[        3171  18     H883   1\n8 3",
-                "images": [
-                    {
-                        "name": "img_p0_1.png",
-                        "height": 1684,
-                        "width": 1191
-                    }
-                ],
-                "items": [
-                    {
-                        "type": "text",
-                        "value": "iHW5\n0 0?37 11F71\n[2    11  L1\n167IL1328[H111     7\n1  172\n1  11  HW         7     7    82V3         U\n1   W8                   5 13\n1t        WJ1          IPMVl\n3           23\nH:                    8 7\n9F          E8        1F2 1F\nV      8:283    8311786531\n1[        3171  18     H883   1\n8 3",
-                        "md": "iHW5\n0 0?37 11F71\n[2    11  L1\n167IL1328[H111     7\n1  172\n1  11  HW         7     7    82V3         U\n1   W8                   5 13\n1t        WJ1          IPMVl\n3           23\nH:                    8 7\n9F          E8        1F2 1F\nV      8:283    8311786531\n1[        3171  18     H883   1\n8 3"
-                    }
-                ]
-            }
-        ],
-        "job_metadata": {
-            "credits_used": 47.0,
-            "credits_max": 1000,
-            "job_credits_usage": 1,
-            "job_pages": 1,
-            "job_is_cache_hit": false
-        },
-        "job_id": "e3e7fa17-b57c-4754-a85e-59706d2d992f",
-        "file_path": "/content/ia024-projeto-rag/0-downloaded-files/2-boituva/portarias/2015/11 - Novembro/Nov_Port_0102_Revoga BTV.0009_2014 designa CAAD Gestão_BTV.pdf"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:69499163d2c053268ea535a6985f3403f0558287af847752186bac27aabe785b
+size 2498
