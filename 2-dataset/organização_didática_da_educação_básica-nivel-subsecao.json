@@ -111,14 +111,14 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DA RECUPERAÇÃO CONTÍNUA E PARALELA",
+                            "secao_nome": "SEÇÃO I - DA RECUPERAÇÃO CONTÍNUA E PARALELA.",
                             "secao_artigos": [
                                 "Art 41 - A recuperação deverá ser oferecida, na educação básica, nos casos de baixo rendimento escolar, em atendimento aos artigos 13, incisos III e IV e ao artigo nº 24, inciso V, alínea “e”, da Lei nº 9.394/96, Lei de Diretrizes e Bases da Educação Nacional (LDB) com previsão de: I - Recuperação contínua; II - Recuperação paralela. § 1º. A Recuperação Contínua será realizada no decorrer de todo o período letivo, com base nos resultados obtidos pelos estudantes ao longo do processo de ensino e de aprendizagem. I - Está inserida no trabalho pedagógico realizado no dia a dia da sala de aula e decorre de avaliação diagnóstica de desempenho do estudante, constituindo-se por intervenções imediatas, dirigidas às dificuldades específicas, assim que estas forem constatadas; II - É composta por um conjunto de estratégias elaboradas pelo professor com o objetivo de recuperar conteúdos essenciais que não foram assimilados pelo estudante. § 2º. A Recuperação Paralela será oferecida a partir da identificação das dificuldades dos estudantes no decorrer do período letivo. I - As atividades de recuperação paralela serão previstas em um plano elaborado pelo docente responsável pelo componente curricular, ou pelo grupo de docentes de um determinado curso, julgada a peculiaridade de cada caso; II - A recuperação paralela se dará em horário que privilegie o atendimento ao estudante e que não coincida com as aulas regulares do seu curso; III - O simples oferecimento de tais estudos, paralelamente ao período letivo regular, não significará o correto cumprimento da norma legal referida. É indispensável a garantia de novas medidas de avaliação que não se restringem, necessariamente, à aplicação de provas; IV - Observado o progresso do estudante em comparação a situação anterior, os registros de nota deverão ser revistos."
                             ],
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO II - DO CONSELHO DE CLASSE",
+                            "secao_nome": "SEÇÃO II - DO CONSELHO DE CLASSE.",
                             "secao_artigos": [
                                 "Art 42 - Os Conselhos de Classe do IFSP são organizados como instâncias consultivas (Conselho de Classe Pedagógico) e deliberativas (Conselho de Classe Deliberativo). § 1º. O Conselho de Classe Pedagógico deve contar com a participação: I - de todos os docentes da respectiva turma; II - do Coordenador de Curso; III - de um Pedagogo ou de um Técnico em Assuntos Educacionais da Coordenadoria Sociopedagógica, ou setor equivalente; IV - do Representante de turma, com participação facultativa; V - do Representante de pais ou responsáveis, com participação facultativa. § 2º. O Conselho de Classe Deliberativo deve contar com a participação: I - de todos os docentes que ministraram aulas na respectiva turma; II - do Coordenador de Curso; III - do Pedagogo ou do Técnico em Assuntos Educacionais da Coordenadoria Sociopedagógica, ou setor equivalente. § 3º. O representante de turma deverá receber a mesma convocação para o Conselho de Classe Pedagógico, entretanto sua participação é facultativa. § 4º. As discussões e deliberações sobre questões relativas aos desempenhos individuais não deverão contar com a presença dos representantes de pais e de estudantes, garantindo a discrição necessária à vida acadêmica discente.",
                                 "Art 43 - O Conselho de Classe Pedagógico tem, como objetivo, dentre outros, o acompanhamento do processo de ensino e de aprendizagem, mediante o diálogo e a participação de todos os seus membros na verificação do perfil da turma, na detecção de progressos e dificuldades e na proposição dos encaminhamentos pertinentes.",
@@ -145,9 +145,8 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DA VERIFICAÇÃO DO RENDIMENTO ESCOLAR DOS CURSOS",
+                            "secao_nome": "SEÇÃO I - DA VERIFICAÇÃO DO RENDIMENTO ESCOLAR DOS CURSOS TÉCNICOS DE NÍVEL MÉDIO NAS FORMAS CONCOMITANTE OU SUBSEQUENTE.",
                             "secao_artigos": [
-                                "TÉCNICOS DE NÍVEL MÉDIO NAS FORMAS CONCOMITANTE OU SUBSEQUENTE",
                                 "Art 55 - Considera-se APROVADO: I - o estudante que obtenha no módulo, média global das notas finais igual ou superior a 6,0 (seis), e frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo; (Alterado pela Resolução Normativa IFSP nº 02, de 29 de junho de 2021). (Resolução Normativa IFSP nº 02, de 29 de junho de 2021 revogada pela Resolução Normativa nº 10, de 06 de setembro de 2022). I - o estudante que obtenha no módulo, média global das notas finais igual ou superior a 6,0 (seis), desde que obtenha nota mínima superior a 4,0 (quatro) em todos os componentes do módulo e tenha frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo; (Incluído pela Resolução Normativa IFSP nº 02, de 29 de junho de 2021). (Redação dada pela Resolução Normativa nº 10, de 06 de setembro de 2022). II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo que, após reavaliação, obtenha no módulo, média global das notas finais igual ou superior a 6,0 (seis); (Alterado pela Resolução Normativa IFSP nº 02, de 29 de junho de 2021). (Resolução Normativa IFSP nº 02, de 29 de junho de 2021 revogada pela Resolução Normativa nº 10, de 06 de setembro de 2022). II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo que, após reavaliação, obtenha nos componentes na qual foi submetido a reavaliação, notas finais igual ou superior a 6,0 (seis); (Redação dada pela Resolução Normativa nº 10, de 06 de setembro de 2022). III - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, que, após análise do Conselho de Classe Deliberativo, seja considerado aprovado.",
                                 "Art 56 - Considera-se REPROVADO: I - o estudante que obtiver frequência global menor que 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, independentemente da nota que tiver alcançado; II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, que obtenha no módulo, média global das notas finais menor que 6 (seis), em mais de três componentes curriculares, nota final menor que 6 (seis) após reavaliação, e, após análise do Conselho Deliberativo, for considerado reprovado. (Alterado pela Resolução Normativa IFSP nº 02, de 29 de junho de 2021). (Resolução Normativa IFSP nº 02, de 29 de junho de 2021 revogada pela Resolução Normativa nº 10, de 06 de setembro de 2022). II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, que obtenha no módulo, média global das notas finais menor que 6 (seis), nota final menor que 6 (seis) nos componentes na qual foi submetido a reavaliação, e, após análise do Conselho Deliberativo, for considerado reprovado. (Redação dada pela Resolução Normativa nº 10, de 06 de setembro de 2022). Parágrafo único. O estudante RETIDO, conforme inciso I, deverá cursar, em regime de dependência, apenas os componentes curriculares que não tenha obtido êxito, ou seja, aqueles com nota final menor que 6,0 e/ou com frequência menor que 75%.” (Incluído pela Resolução Normativa nº 10, de 06 de setembro de 2022).",
                                 "Art 57 - Ficará sujeito à reavaliação o estudante que obtiver, no componente curricular, nota final inferior a 6,0 (seis) e frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo.",
@@ -171,9 +170,8 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DA VERIFICAÇÃO DO RENDIMENTO ESCOLAR NOS CURSOS",
+                            "secao_nome": "SEÇÃO I - DA VERIFICAÇÃO DO RENDIMENTO ESCOLAR NOS CURSOS TÉCNICOS DE NÍVEL MÉDIO NA FORMA INTEGRADA AO ENSINO MÉDIO.",
                             "secao_artigos": [
-                                "TÉCNICOS DE NÍVEL MÉDIO NA FORMA INTEGRADA AO ENSINO MÉDIO",
                                 "Art 64 - Considera-se APROVADO: I - o estudante que obtenha em cada área do conhecimento (Linguagens, Matemática, Ciências da Natureza, Ciências Humanas, Disciplinas Técnicas e Projeto Integrador) média das notas finais igual ou superior a 6,0 (seis), e frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo; II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo que, após reavaliação obtenha, média das notas finais igual ou superior a 6,0 (seis) em cada área do conhecimento; III - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, que, após análise do Conselho de Classe Deliberativo, seja considerado aprovado.",
                                 "Art 65 - Considera-se REPROVADO: I - o estudante que obtiver frequência global menor que 75% (setenta e cinco por cento), das aulas dadas e demais atividades no período letivo, independentemente da nota que tiver alcançado; II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, que, após reavaliação, obtenha média das notas finais menor que 6,0 (seis) em pelo menos uma área do conhecimento e, após análise do Conselho Deliberativo, for considerado reprovado.",
                                 "Art 66 - Ficará sujeito à reavaliação o estudante que obtiver, no componente curricular, nota final inferior a 6,0 (seis) e frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo. § 1º. Fica assegurada a recuperação paralela, antecedendo a reavaliação nos termos do artigo 41, desta Resolução. § 2º. A nota final do componente curricular será a maior nota entre a nota final e a nota de reavaliação.",
@@ -196,9 +194,8 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DA VERIFICAÇÃO DO RENDIMENTO ESCOLAR DOS CURSOS",
+                            "secao_nome": "SEÇÃO I - DA VERIFICAÇÃO DO RENDIMENTO ESCOLAR DOS CURSOS TÉCNICOS DE NÍVEL MÉDIO INTEGRADO AO ENSINO MÉDIO NA MODALIDADE DE EDUCAÇÃO DE JOVENS E ADULTOS (EJA).",
                             "secao_artigos": [
-                                "TÉCNICOS DE NÍVEL MÉDIO INTEGRADO AO ENSINO MÉDIO NA MODALIDADE DE EDUCAÇÃO DE JOVENS E ADULTOS (EJA)",
                                 "Art 75 - Considera-se APROVADO: I - o estudante que obtenha em cada área do conhecimento (Linguagens, Matemática, Ciências da Natureza, Ciências Humanas, Disciplinas Técnicas e Projeto Integrador) média das notas finais igual ou superior a 6,0 (seis), e frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo; II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo que, após reavaliação obtenha, média das notas finais igual ou superior a 6,0 (seis) em cada área do conhecimento; III - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas no período letivo e demais atividades, que, após análise do Conselho de Classe Deliberativo, seja considerado aprovado.",
                                 "Art 76 - Considera-se REPROVADO: I - o estudante que obtiver frequência global menor que 75% (setenta e cinco por cento), das aulas dadas e demais atividades no período letivo, independentemente da nota que tiver alcançado; II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, que, após reavaliação, obtenha média das notas finais menor que 6,0 (seis) em pelo menos uma área do conhecimento e, após análise do Conselho Deliberativo, for considerado reprovado.",
                                 "Art 77 - Ficará sujeito à reavaliação o estudante que obtiver, no componente curricular, nota final inferior a 6,0 (seis) e frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo. § 1º. Fica assegurada a recuperação paralela, antecedendo a reavaliação nos termos do artigo 41 desta Resolução. § 2º. A nota final do componente curricular será a maior nota entre a nota final e a nota de reavaliação.",
@@ -226,9 +223,8 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I – DA VERIFICAÇÃO DO RENDIMENTO ESCOLAR DOS CURSOS DA",
+                            "secao_nome": "SEÇÃO I – DA VERIFICAÇÃO DO RENDIMENTO ESCOLAR DOS CURSOS DA FORMAÇÃO INICIAL OU CONTINUADA, NA FORMA INTEGRADA AO ENSINO MÉDIO OU FUNDAMENTAL, NA MODALIDADE DE EDUCAÇÃO DE JOVENS E ADULTOS.",
                             "secao_artigos": [
-                                "FORMAÇÃO INICIAL OU CONTINUADA, NA FORMA INTEGRADA AO ENSINO MÉDIO OU FUNDAMENTAL, NA MODALIDADE DE EDUCAÇÃO DE JOVENS E ADULTOS",
                                 "Art 91 - Considera-se APROVADO: I - O estudante que obtenha em cada área do conhecimento (Linguagens, Matemática, Ciências da Natureza, Ciências Humanas, Disciplinas Técnicas e Projeto Integrador) média das notas finais igual ou superior a 6,0 (seis), e frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo; II - O estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo que, após reavaliação obtenha, média das notas finais igual ou superior a 6,0 (seis) em cada área do conhecimento; III - O estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, que, após análise do Conselho de Classe Deliberativo, seja considerado aprovado.",
                                 "Art 92 - Considera-se REPROVADO: I - o estudante que obtiver frequência global menor que 75% (setenta e cinco por cento), das aulas dadas e demais atividades no período letivo, independentemente da nota que tiver alcançado; II - o estudante com frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo, que, após reavaliação, obtenha média das notas finais menor que 6,0 (seis) em pelo menos uma área do conhecimento e, após análise do Conselho Deliberativo, for considerado reprovado.",
                                 "Art 93 - Ficará sujeito à reavaliação o estudante que obtiver, no componente curricular, nota final inferior a 6,0 (seis) e frequência global mínima de 75% (setenta e cinco por cento) das aulas dadas e demais atividades no período letivo. § 1º. Fica assegurada a recuperação paralela, antecedendo a reavaliação nos termos do artigo 41, desta Resolução. § 2º. A nota final do componente curricular será a maior nota entre a nota final e a nota de reavaliação.",
@@ -286,11 +282,11 @@
                     "secoes": []
                 },
                 {
-                    "capitulo_nome": "CAPÍTULO III DA AVALIAÇÃO DA APRENDIZAGEM E DO REGISTRO ACADÊMICO DOCENTE.",
+                    "capitulo_nome": "CAPÍTULO III DA AVALIAÇÃO DA APRENDIZAGEM E DO REGISTRO ACADÊMICO DOCENTE",
                     "capitulo_artigos": [],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DA AVALIAÇÃO DA APRENDIZAGEM",
+                            "secao_nome": "SEÇÃO I - DA AVALIAÇÃO DA APRENDIZAGEM.",
                             "secao_artigos": [
                                 "Art 111 - A avaliação do ensino e da aprendizagem consistirá num conjunto de ações desenvolvidas de forma sistemática, processual, contínua e cumulativa norteada pelo caráter diagnóstico e formativo, pressupondo a contextualização dos conhecimentos possibilitando ao professor analisar sua prática e ao estudante comprometer-se com seu desenvolvimento intelectual e sua autonomia.",
                                 "Art 112 - A avaliação da aprendizagem dos estudantes visa a sua progressão para o alcance do perfil profissional de conclusão, com preponderância dos aspectos qualitativos sobre os aspectos quantitativos. Parágrafo único: A avaliação dos aspectos qualitativos compreende o diagnóstico, a orientação e a reorientação do processo de ensino e de aprendizagem, visando ao aprofundamento dos conhecimentos e ao desenvolvimento dos estudantes.",
@@ -300,7 +296,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO II - DO REGISTRO ACADÊMICO DOCENTE",
+                            "secao_nome": "SEÇÃO II - DO REGISTRO ACADÊMICO DOCENTE.",
                             "secao_artigos": [
                                 "Art 115 - O registro do processo acadêmico compreenderá a apuração de frequência às atividades didáticas, a síntese das ações pedagógicas desenvolvidas, incluindo estudos de recuperação da aprendizagem, e a avaliação do aproveitamento acadêmico em todos os componentes curriculares. § 1º. O docente deverá registrar, no diário de classe adotado pela Instituição: I - Diariamente a frequência dos estudantes, os temas e atividades desenvolvidas e a metodologia adotada; II - Os instrumentos de avaliação adotados e os resultados obtidos; III - Regime de exercícios domiciliares; IV - Registros de recuperação contínua e paralela, na forma das regulamentações vigentes; § 2º. O docente deverá registrar, bimestralmente, no diário de classe, no mínimo, dois instrumentos diferentes de avaliação. § 3º. Os processos, instrumentos, critérios e valores de avaliação adotados pelo professor deverão ser explicitados aos estudantes, até a segunda semana letiva, quando da apresentação do plano de ensino e de aulas.",
                                 "Art 116 - Ao final de cada período letivo o sistema acadêmico realizará o cálculo das notas finais e frequência de acordo com as informações inseridas no diário de classe e em conformidade com a organização dos cursos.",
@@ -312,7 +308,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO III - DA REVISÃO DOS PROCEDIMENTOS AVALIATIVOS",
+                            "secao_nome": "SEÇÃO III - DA REVISÃO DOS PROCEDIMENTOS AVALIATIVOS.",
                             "secao_artigos": [
                                 "Art 121 - É direito do estudante solicitar a revisão dos procedimentos avaliativos ou de seus resultados, quando houver discordância da correção realizada pelo docente, em até 02 (dois) dias úteis após a vista do instrumento avaliativo ou da divulgação do resultado pelo professor. § 1º. O estudante deverá protocolar a solicitação de revisão na Coordenadoria de Registros Acadêmicos ou setor equivalente, em requerimento próprio, dirigido ao Coordenador do Curso. A solicitação deverá estar devidamente fundamentada. § 2º. O requerimento será avaliado pelo professor responsável pelo componente curricular e, caso mantenha inalterada a correção da avaliação, deverá ser dada ciência ao estudante e caso este continue discordando será designada banca revisora composta para esse fim. § 3º. Havendo necessidade, nos termos do parágrafo anterior, o Coordenador do Curso, ou seu representante, constituirá e coordenará banca revisora composta por pelo menos: I - 01 (um) docente do mesmo componente curricular ou de área afim; II - 01 (um) representante da Coordenadoria Sociopedagógica, ou setor equivalente; III - 01 (um) representante discente. § 4º. É vedada a presença do estudante requerente e do docente responsável pela elaboração e/ou correção da avaliação nos trabalhos da Banca Revisora. § 5º. Quando o docente responsável pela elaboração e/ou correção da avaliação for o coordenador de curso, será responsabilidade da Diretoria Adjunta Educacional, em conjunto com a CEIC, a constituição da banca revisora. § 6º. O docente responsável pela prova submetida à revisão deverá fornecer à Banca Revisora o plano de ensino, os objetivos, os critérios da avaliação da prova em questão e o instrumento de avaliação do estudante.",
                                 "Art 122 - A Banca Revisora emitirá parecer justificando sua decisão no prazo máximo de 5 (cinco) dias úteis, contados da data do requerimento.",
@@ -356,7 +352,7 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DO DESENVOLVIMENTO DE PROJETOS INTEGRADORES",
+                            "secao_nome": "SEÇÃO I - DO DESENVOLVIMENTO DE PROJETOS INTEGRADORES.",
                             "secao_artigos": [
                                 "Art 139 - Os projetos integradores articulam ensino, pesquisa e extensão e poderão permear todos os períodos dos cursos, devendo contemplar a aplicação dos conhecimentos adquiridos durante o curso, tendo em vista a intervenção no mundo do trabalho e na realidade social, contribuindo para o desenvolvimento local e a solução de problemas.",
                                 "Art 140 - Os projetos integradores constituem-se como componentes curriculares, desenvolvidos numa concepção e postura metodológica assumidas pela instituição, voltadas para o envolvimento de professores e estudantes na busca da integração curricular, na interdisciplinaridade e na articulação entre teoria e prática.",
@@ -365,7 +361,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO II - DO ESTÁGIO PROFISSIONAL SUPERVISIONADO",
+                            "secao_nome": "SEÇÃO II - DO ESTÁGIO PROFISSIONAL SUPERVISIONADO.",
                             "secao_artigos": [
                                 "Art 142 - O estágio profissional, modalidade específica de estágio curricular supervisionado, compreende ato educativo escolar, desenvolvido em situação real de trabalho e que deve ser previsto, em caráter obrigatório ou não, em todos os PPCs. § 1º. Nos casos em que for prevista como obrigatória no PPC, a realização do estágio constituir-se-á pré-requisito para aprovação e obtenção de diploma. § 2º. O Estágio será objeto de regulamentação própria do IFSP e as orientações aos estudantes deverão estar contidas no Manual do Estagiário, disponibilizado pela Pró-Reitoria de Extensão.",
                                 "Art 143 - As atividades programadas para o estágio devem manter uma correspondência com os conhecimentos teórico-práticos adquiridos pelo estudante no decorrer do curso.",
@@ -407,7 +403,7 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I – DO ACESSO ÀS INFORMAÇÕES ACADÊMICAS DISCENTES",
+                            "secao_nome": "SEÇÃO I – DO ACESSO ÀS INFORMAÇÕES ACADÊMICAS DISCENTES.",
                             "secao_artigos": [
                                 "Art 159 - As informações acadêmicas dos discentes do IFSP são armazenadas em prontuário, o qual fica sob a responsabilidade da Coordenadoria de Registros Acadêmicos (CRA). § 1º. As informações contidas no prontuário são pessoais e de acesso restrito nos termos do artigo 31, da Lei nº 12.527/2011. § 2º. Somente terão acesso aos dados constantes no prontuário os setores de atendimento, conforme Regimento dos Câmpus.",
                                 "Art 160 - O estudante ou seu representante legal, nos casos de menores de 18 (dezoito) anos, terá acesso irrestrito aos dados contidos no prontuário discente, podendo solicitar vistas ou cópia digital a qualquer tempo, mediante solicitação via formulário específico. Parágrafo Único: É permitido ao estudante ou seu representante legal, nos casos de menores de 18 (dezoito) anos, autorizar o acesso ao seu prontuário à terceiros, mediante procuração simples registrada em cartório ou procuração simples com apresentação do documento do outorgante e apresentação do documento de identificação pessoal do outorgado. A procuração será arquivada no prontuário do estudante, junto com a cópia do documento pessoal do outorgado."
@@ -430,7 +426,7 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - TRANSFERÊNCIAS ESPECIAIS",
+                            "secao_nome": "SEÇÃO I - TRANSFERÊNCIAS ESPECIAIS.",
                             "secao_artigos": [
                                 "Art 169 - Entendem-se por transferências especiais aquelas que não dependem de edital específico e que podem ser solicitadas a qualquer tempo, elas podem ser ex-officio ou por deferimento.",
                                 "Art 170 - A transferência ex-officio ocorrerá nos casos de remoção ex-officio de servidor público civil ou militar, e de seus dependentes, e será concedida independentemente da existência de vaga. § 1º. O candidato à transferência ex-officio, ao requerer sua transferência, deverá apresentar os seguintes documentos e demais que forem solicitados: I - formulário próprio preenchido pelo interessado, ou seu responsável legal, quando menor de dezoito anos, na Coordenadoria de Registros Acadêmicos ou equivalente; II - original e cópia da cédula de identidade, CPF e título de eleitor, este último para os maiores; III - cópia do ato que comprove a transferência ex-officio; IV - cópia do documento que comprove a relação de dependência do candidato, quando for o caso; V - guia de transferência; VI - documentos previstos no capítulo de Aproveitamento de Estudos, desta Resolução. § 2º. A Coordenadoria de Registros Acadêmicos ou equivalente encaminhará o pedido para o coordenador de curso, que enviará para a comissão verificadora de aproveitamento de estudos, a qual organizará um Plano Individual de Estudos onde conste: I - os componentes curriculares nos quais foi obtido aproveitamento de estudos, de acordo com o capítulo próprio desta Resolução; II - os componentes curriculares nos quais o estudante fará adaptação curricular; III - o período letivo em que o candidato será matriculado; IV - o prazo máximo para integralização curricular.",
@@ -442,11 +438,11 @@
                     ]
                 },
                 {
-                    "capitulo_nome": "CAPÍTULO III DA MATRÍCULA.",
+                    "capitulo_nome": "CAPÍTULO III DA MATRÍCULA",
                     "capitulo_artigos": [],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DA MATRÍCULA INICIAL",
+                            "secao_nome": "SEÇÃO I - DA MATRÍCULA INICIAL.",
                             "secao_artigos": [
                                 "Art 173 - Matrícula é o ato formal pelo qual se dá a vinculação acadêmica do estudante ao IFSP após a classificação em Processo Seletivo, de ingresso, transferência, reopção de curso e intercâmbio, mediante convocação conforme número de vagas disponíveis, mediante a apresentação dos documentos exigidos no edital.",
                                 "Art 174 - A matrícula inicial em um curso será efetuada no câmpus mediante requerimento à Comissão de Processo Seletivo, devidamente preenchido e assinado pelo candidato ou pelo responsável legal, quando menor de idade, e a ele anexados os documentos exigidos, conforme disposto em edital de processo seletivo. § 1º. O aluno poderá ocupar mais de uma vaga nos cursos da educação básica, ou uma vaga de curso da educação básica e uma vaga de curso superior, desde que com horários compatíveis. § 2º. Serão considerados desistentes: I - os candidatos aprovados em processo seletivo que não efetuarem a matrícula no prazo; II - os estudantes matriculados que não frequentarem os 10 (dez) primeiros dias úteis de atividades acadêmicas, sem apresentação de justificativa devidamente comprovada e atestada, a ser analisada pela Diretoria Adjunta Educacional. § 3º. Será nula, a qualquer tempo, de pleno direito, a matrícula realizada com documentos falsos ou adulterados, ficando o responsável passível de implicações legais. § 4º. Verificado o não atendimento dos requisitos estabelecidos em edital para ingresso, a Comissão de Processo Seletivo poderá indeferir a matrícula do candidato classificado a qualquer tempo."
@@ -454,7 +450,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO II - DA REMATRÍCULA",
+                            "secao_nome": "SEÇÃO II - DA REMATRÍCULA.",
                             "secao_artigos": [
                                 "Art 175 - A rematrícula para cada período letivo é obrigatória para todos os estudantes, inclusive para os que estão em cumprimento de prática profissional ou outras atividades curriculares previstas para integralização do curso conforme data prevista no calendário acadêmico do câmpus. § 1º. Os estudantes com matrícula trancada deverão efetuar rematrícula e, se for o caso, novo trancamento. § 2º. A rematrícula dos estudantes menores de dezoito será assinada pelos pais ou responsáveis",
                                 "Art 176 - O estudante que não efetuar a rematrícula no prazo, terá até 20 (vinte) dias corridos para justificar o fato e regularizar a situação junto à Coordenadoria de Registros Acadêmicos ou equivalente. § 1º. Cabe à Coordenadoria Sociopedagógica ou equivalente, sob coordenação da Diretoria Adjunta Educacional, ou equivalente, verificar os motivos do não comparecimento do estudante, com o objetivo do reestabelecimento do vínculo e a continuidade do curso. § 2º. Quando a coordenadoria Sociopedagógica ou equivalente não obtiver êxito no contato deverá apresentar lista à Diretoria Adjunta Educacional no prazo de 15 (quinze) dias úteis a contar do prazo do caput para realização do cancelamento, pela Coordenadoria de Registros Acadêmicos ou equivalente."
@@ -462,7 +458,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO III - DO TRANCAMENTO DE MATRÍCULA",
+                            "secao_nome": "SEÇÃO III - DO TRANCAMENTO DE MATRÍCULA.",
                             "secao_artigos": [
                                 "Art 177 - O trancamento de matrícula poderá ocorrer de forma compulsória ou voluntária. § 1º. A solicitação de trancamento de matrícula deverá ser feita mediante requerimento à Coordenadoria de Registros Acadêmicos ou equivalente, pelo próprio estudante, quando maior de idade, ou por seu representante legal, quando menor de 18 (dezoito) anos, dentro do prazo estipulado no calendário acadêmico. § 2º. Não será possível o trancamento de matrícula quando o curso em que o estudante estiver matriculado encontrar-se em processo de extinção. § 3º. Não será possível o trancamento de matrícula de estudante ingressante para vagas remanescentes, no semestre de ingresso do curso.",
                                 "Art 178 - Entende-se por trancamento de matrícula compulsório aquele em que o estudante necessite interromper os estudos nos seguintes casos, devidamente comprovados e atestados: I - convocação para o serviço militar; II - incapacidade devido a problemas de saúde, mediante atestado médico; III - acompanhamento de cônjuge, ascendente ou descendente em segundo grau de parentesco, para tratamento de saúde, mediante atestado médico; IV - não oferecimento do período letivo correspondente, quando o estudante ficar retido, necessário para a integralização do curso pelo estudante; V - quando ocorrer mudanças na relação de trabalho que impeça a continuidade dos estudos; VI - outros casos previstos em lei. Parágrafo único. O trancamento de matrícula compulsório pode ser requerido em qualquer época do período letivo e não será computado para efeito de contagem de tempo máximo para integralização curricular. O retorno do estudante será no mesmo período letivo que cursava quando solicitou o trancamento.",
@@ -474,7 +470,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO IV - DO CANCELAMENTO DE MATRÍCULA NO CURSO",
+                            "secao_nome": "SEÇÃO IV - DO CANCELAMENTO DE MATRÍCULA NO CURSO.",
                             "secao_artigos": [
                                 "Art 183 - O cancelamento de matrícula é o ato formal de desligamento do estudante de forma voluntária ou compulsória.",
                                 "Art 184 - O cancelamento de matrícula voluntário poderá ser solicitado a qualquer tempo, salvo para os estudantes dos cursos técnicos de nível médio na forma integrada ao Ensino Médio, mediante requerimento do estudante ou de seu representante legal, quando menor de 18 (dezoito) anos. Parágrafo único. Para a concessão de cancelamento de matrícula, o estudante deverá apresentar termo de quitação de compromissos com a Biblioteca, e demais setores determinados em regulamentação própria.",
@@ -486,16 +482,15 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO V - DA TRANSFERÊNCIA DE TURNO",
+                            "secao_nome": "SEÇÃO V - DA TRANSFERÊNCIA DE TURNO.",
                             "secao_artigos": [
                                 "Art 189 - A transferência de turno poderá ocorrer mediante solicitação do próprio estudante, ou por seu representante legal, quando menor de 18 (dezoito) anos, junto à Coordenadoria de Registros Acadêmicos ou equivalente, acompanhada de documentos que justifiquem sua solicitação, se for o caso. A mudança de turno ocorrerá preferencialmente no início do período letivo, respeitando o prazo estipulado no calendário acadêmico. § 1º. De posse da solicitação, a Coordenadoria de Registros Acadêmicos ou equivalente deverá encaminhá-la ao Coordenador de Curso, no prazo de 02 (dois) dias, para que este se manifeste sobre a existência de vaga no turno pretendido, devendo responder a solicitação, em até 07 (sete) dias úteis do pedido do estudante. § 2º. No caso de haver mais pedidos do que vaga disponível deverá ser seguida a ordem dos incisos abaixo: I - incorporação ao Serviço Militar Obrigatório; II - dificuldade de frequentar as aulas no período em que esteja matriculado, por problema de saúde devidamente atestado; III - incompatibilidade entre o horário das aulas e o horário de trabalho ou estágio; IV - mudança de domicílio que dificulte a frequência no turno em que está matriculado. V - Outros casos serão analisados pela Coordenadoria Sociopedagógica ou equivalente, junto com a Coordenação do curso. § 3º. Havendo empate, caberá à Coordenadoria Sociopedagógica ou equivalente, com anuência do Diretor Adjunto Educacional, por meio de entrevistas com os estudantes, determinar a ordem de atendimento, inclusive para os casos não descritos no parágrafo anterior, no prazo de 05 (cinco) dias úteis."
                             ],
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO VI – TRANSFERÊNCIA EXTERNA - DA TRANSFERÊNCIA DO IFSP",
+                            "secao_nome": "SEÇÃO VI – TRANSFERÊNCIA EXTERNA - DA TRANSFERÊNCIA DO IFSP PARA OUTRA INSTITUIÇÃO.",
                             "secao_artigos": [
-                                "PARA OUTRA INSTITUIÇÃO",
                                 "Art 190 - A transferência de estudante regularmente matriculado no IFSP para outra instituição poderá ser concedida em qualquer tempo, desde que esteja cursando ou com matrícula trancada.",
                                 "Art 191 - O pedido de transferência deverá ser realizado, pelo estudante ou por seu representante legal, quando menor de 18 (dezoito), na Coordenadoria de Registros Acadêmicos ou equivalente do câmpus. Parágrafo Único. Para a concessão de transferência, o estudante deverá apresentar termo de quitação de compromissos (nada consta) com a Biblioteca, e demais setores determinados em regulamentação própria.",
                                 "Art 192 - A expedição da guia de transferência deverá ocorrer no prazo máximo de 20 (vinte) dias úteis, contados da data do pedido, caso solicitado."
@@ -503,15 +498,14 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO VII - DA TRANSFERÊNCIA DE ESTUDANTES DE INSTITUIÇÕES",
+                            "secao_nome": "SEÇÃO VII - DA TRANSFERÊNCIA DE ESTUDANTES DE INSTITUIÇÕES ESTRANGEIRAS.",
                             "secao_artigos": [
-                                "ESTRANGEIRAS",
                                 "Art 193 - Conceder-se-á matrícula ao estudante de instituições de ensino estrangeiras conveniadas que pretender ser diplomado pelo IFSP, na condição de estudante transferido. § 1º. Esse estudante submeter-se-á às seguintes condições: I - referentes ao IFSP: a) declarar existência de vaga, publicada em edital; b) realizar correlação de estudos entre os componentes curriculares cursados e a estrutura curricular do respectivo curso do IFSP; II - referentes ao candidato à vaga: a) estar regularmente matriculado na instituição de origem; b) declarar aceitação das normas do IFSP; c) realizar adaptações curriculares, quando necessárias; d) apresentar a documentação acadêmica com tradução juramentada e com revalidação no órgão competente, salvo quando emitidos por países que integrem tratados internacionais do qual o Brasil seja integrante. § 2º. Os estudantes que forem aceitos terão os componentes curriculares cursados na instituição de origem aproveitados e inseridos em seu histórico acadêmico do IFSP, os quais deverão constar como Aproveitamento de Estudos."
                             ],
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO VIII - DO ESTUDANTE ESPECIAL",
+                            "secao_nome": "SEÇÃO VIII - DO ESTUDANTE ESPECIAL.",
                             "secao_artigos": [
                                 "Art 194 - Entende-se por estudante especial, aquele inscrito para cursar componentes curriculares isolados em qualquer câmpus do IFSP, para cumprimento de componentes curriculares em dependência no curso de origem.",
                                 "Art 195 - O candidato deverá requerer a matrícula como estudante especial na Coordenadoria de Registros Acadêmicos ou equivalente do câmpus de destino, com o atestado de matrícula no câmpus de origem e com a declaração assinada pelo Coordenador do Curso de origem, contendo a identificação do estudante e o componente curricular a ser cursado. Parágrafo Único: A Coordenadoria de Registros Acadêmicos ou equivalente deverá encaminhar o requerimento para análise e parecer do Coordenador do Curso do câmpus destino. O parecer deverá retornar à Coordenadoria de Registros Acadêmicos no prazo de 3 dias úteis do pedido do estudante.",
@@ -530,7 +524,7 @@
                     ],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DO INTERCÂMBIO DE ESTUDANTES DO IFSP",
+                            "secao_nome": "SEÇÃO I - DO INTERCÂMBIO DE ESTUDANTES DO IFSP.",
                             "secao_artigos": [
                                 "Art 200 - É facultado ao estudante regularmente matriculado no IFSP cursar, por meio de intercâmbio, componentes curriculares em instituições de ensino conveniadas. § 1º. O prazo máximo de afastamento para cursar componentes curriculares em outra instituição estará definido no termo de cooperação ou convênio. § 2º. O estudante deverá requerer na Coordenadoria de Registros Acadêmicos ou equivalente a dispensa para realização de intercâmbio. Este setor deverá encaminhar de imediato para o Coordenador de Curso para análise e emissão de parecer em 5 (cinco) dias úteis, e devolver à Coordenadoria de Registros Acadêmicos, para ciência do resultado ao estudante, no prazo de 2 (dois) dias corridos. § 3º. Cabe ao Coordenador do Curso aprovar a participação dos estudantes em intercâmbio. § 4º. Quando o intercâmbio for com instituição estrangeira, o estudante poderá ser solicitado a comprovar proficiência em língua estrangeira, de acordo com os critérios estabelecidos pela instituição de destino. § 5º. O período em que o estudante estiver realizando o intercâmbio deverá ser computado no tempo máximo para integralização curricular.",
                                 "Art 201 - O estudante deverá analisar, em conjunto com o Coordenador do Curso, as atividades que pretende desenvolver e elaborar um Plano de Estudos. § 1º. O Plano de Estudos deverá conter a listagem dos componentes curriculares, suas ementas e/ou programas e a carga horária que cumprirá na instituição de destino. § 2º. O Coordenador do Curso, ou CEIC, acompanhará a realização das atividades previstas no Plano de Estudos, observando principalmente a carga horária e a presença dos conteúdos relevantes e significativos previstos na estrutura curricular do seu curso.",
@@ -539,7 +533,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO II - DO INTERCÂMBIO DE ESTUDANTES DE OUTRAS INSTITUIÇÕES",
+                            "secao_nome": "SEÇÃO II - DO INTERCÂMBIO DE ESTUDANTES DE OUTRAS INSTITUIÇÕES.",
                             "secao_artigos": [
                                 "Art 203 - É facultado ao estudante regularmente matriculado em instituições de ensino conveniadas com o IFSP cumprir componentes curriculares no IFSP. § 1º. O prazo máximo para cursar componentes curriculares como estudante em intercâmbio no IFSP estará definido no termo de cooperação ou convênio. § 2º. O estudante em intercâmbio não terá direito a trancamento de matrícula ou a cancelamento de componente curricular. § 3º. O estudante em intercâmbio poderá requerer declaração de conclusão dos componentes curriculares cursados com aprovação.",
                                 "Art 204 - O Coordenador de Curso deverá aprovar o Plano de Estudos de estudantes que solicitarem intercâmbio no IFSP. Parágrafo único. Para cada estudante aceito no IFSP, o Coordenador de Curso deverá indicar um Tutor Acadêmico responsável pelo acompanhamento da realização das atividades previstas no Plano de Estudos.",
@@ -550,11 +544,11 @@
                     ]
                 },
                 {
-                    "capitulo_nome": "CAPÍTULO V DO ABONO E DA COMPENSAÇÃO DE FALTAS E DO REGIME DE EXERCÍCIOS DOMICILIARES.",
+                    "capitulo_nome": "CAPÍTULO V DO ABONO E DA COMPENSAÇÃO DE FALTAS E DO REGIME DE EXERCÍCIOS DOMICILIARES",
                     "capitulo_artigos": [],
                     "secoes": [
                         {
-                            "secao_nome": "SEÇÃO I - DO ABONO DE FALTAS",
+                            "secao_nome": "SEÇÃO I - DO ABONO DE FALTAS.",
                             "secao_artigos": [
                                 "Art 206 - O abono de faltas, assim entendido quando a ausência do estudante não é computada para efeito de frequência, ocorrerá nos casos descritos abaixo, mediante apresentação de: I - declaração de corporação militar, comprovando o motivo da ausência; II - declaração da Direção Geral do câmpus, comprovando que o estudante esteve representando o IFSP; III - atestado médico para os casos previstos em lei (doenças infectocontagiosas); IV - certidão/declaração de óbito de parentes em até 2º (segundo) grau ou cônjuge; V - solicitação judicial.",
                                 "Art 207 - Em caso de falecimento do cônjuge, companheiro, pais, madrasta ou padrasto, filhos, enteados, menor sob guarda ou tutela e irmãos, o estudante terá direito ao abono por 08 (oito) dias consecutivos.",
@@ -563,7 +557,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO II – DA COMPENSAÇÃO DE FALTAS",
+                            "secao_nome": "SEÇÃO II – DA COMPENSAÇÃO DE FALTAS.",
                             "secao_artigos": [
                                 "Art 209 - A compensação de faltas poderá ser concedida ao estudante com incapacidade física temporária que impossibilite a frequência às aulas, comprovado por atestado médico com afastamento por período entre 5 (cinco) e 14 (quatorze) dias. § 1º. A compensação de faltas não se confunde com o abono de faltas. § 2º. A compensação de faltas do período será realizada após o cumprimento com êxito das atividades propostas.",
                                 "Art 210 - O estudante deverá protocolar o requerimento na Coordenadoria de Registros Acadêmicos ou equivalente com atestado médico, no prazo de 2 (dois) dias úteis após a ocorrência do fato. § 1º. A Coordenadoria de Registros Acadêmicos ou equivalente, lançará o atestado apresentado como justificativa de falta no sistema e encaminhará a informação ao Coordenador de Curso para que comunique aos docentes responsáveis a atribuição de atividade compensatória ao estudante, quando procurados por este, se for o caso. § 2º. Será responsabilidade do docente, após verificar o cumprimento da atividade compensatória com êxito, lançar o código de compensação das faltas do período no sistema."
@@ -571,7 +565,7 @@
                             "subsecoes": []
                         },
                         {
-                            "secao_nome": "SEÇÃO III - REGIME DE EXERCÍCIOS DOMICILIARES",
+                            "secao_nome": "SEÇÃO III - REGIME DE EXERCÍCIOS DOMICILIARES.",
                             "secao_artigos": [
                                 "Art 211 - O Regime de Exercícios Domiciliares é a atividade acadêmica executada em domicílio pelo estudante.",
                                 "Art 212 - O Regime de Exercícios Domiciliares será concedido ao estudante com incapacidade física temporária de frequência às aulas, mas com a conservação das condições intelectuais e emocionais necessárias ao prosseguimento dos estudos, que apresentem atestados médicos com período mínimo de afastamento a partir de 15 (quinze) dias, e que se enquadrem nos seguintes casos: I - tratamento de saúde, amparado pelo Decreto-Lei nº 1.044/69 e outros, desde que comprovado por atestado médico; II - alunas gestantes, por um período de 120 (cento e vinte) dias, a partir do 8º (oitavo) mês de gestação e durante os 3 (três) meses posteriores ao parto, amparadas pela Lei nº 6.202/75. Parágrafo único. Em casos excepcionais, devidamente comprovados por atestado médico, o tempo de afastamento da estudante previsto no inciso II poderá ser aumentado antes e depois do parto.",
