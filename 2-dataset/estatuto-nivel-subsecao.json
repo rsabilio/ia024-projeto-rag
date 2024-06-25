@@ -49,39 +49,37 @@
                     "capitulo_nome": "CAPÍTULO I DOS ÓRGÃOS SUPERIORES.",
                     "capitulo_artigos": [],
                     "secoes": [
-                        [
-                            {
-                                "secao_nome": "SEÇÃO I - DO CONSELHO SUPERIOR",
-                                "secao_artigos": [
-                                    "Art 11 - O Conselho Superior, de caráter consultivo e deliberativo, é o órgão máximo do IFSP, tendo a seguinte composição: I - o Reitor, como presidente; II - representação de um terço do número de campi, destinada aos servidores docentes, sendo o mínimo de dois e o máximo de cinco representantes e igual número de suplentes, eleitos por seus pares, na forma regimental; III - representação de um terço do número de campi, destinada ao corpo discente, sendo o mínimo de dois e o máximo de cinco representantes e igual número de suplentes, eleitos por seus pares, na forma regimental; IV - representação de um terço do número de campi, destinada aos servidores técnico- administrativos, sendo o mínimo de dois e o máximo de cinco representantes e igual número de suplentes, eleitos por seus pares, na forma regimental; V - dois representantes dos discentes egressos do IFSP e igual número de suplentes, indicados por seus pares; VI - seis representantes da sociedade civil e igual número de suplentes, sendo dois indicados por entidades patronais, dois indicados por entidades dos trabalhadores, dois representantes do setor público e/ou de empresas estatais, designados pela Secretaria de Educação Profissional e Tecnológica; VII - um representante e um suplente do Ministério da Educação, designado pela Secretaria de Educação Profissional e Tecnológica; VIII - representação de um terço dos Diretores-Gerais de campi, sendo o mínimo de dois e o máximo de cinco e igual número de suplentes, eleitos por seus pares, na forma regimental. § 1°- Os membros do Conselho Superior (titulares e suplentes), de que tratam os incisos II, III, IV, V e VIII, serão designados por ato do Reitor. § 2º- Os mandatos serão de dois anos, permitida uma recondução para o período imediatamente subsequente, exceto aos membros natos, de que tratam os incisos I e VIII - § 3º- Com relação aos membros de que tratam os incisos II, III e IV, cada campus que compõe o IFSP poderá ter, no máximo, uma representação por categoria. §4º- Serão membros vitalícios do Conselho Superior todos os ex-Reitores do IFSP, sem direito a voto. §5º- Ocorrendo o afastamento definitivo de qualquer membro do Conselho Superior, assumirá o respectivo suplente para a complementação do mandato originalmente estabelecido, realizando-se nova eleição para a escolha de suplentes. §6º- Os membros relacionados nos incisos II a V que se enquadrarem em mais de uma categoria somente poderão se candidatar na categoria mais recente no IFSP. §7°- Os membros relacionados nos incisos II e IV não poderão ocupar, concomitantemente, cargos de confiança da estrutura organizacional do IFSP. §8º- Os procedimentos de trabalho do Conselho Superior serão disciplinados no seu regulamento o qual será aprovado por seus membros. §9º- O Conselho Superior reunir-se-á, ordinariamente, mensalmente e, extraordinariamente, quando convocado por seu Presidente ou por dois terços de seus membros.",
-                                    "Art 12 - O Reitor será o presidente nato do Conselho Superior, a quem caberá, em caso de necessidade, o voto de qualidade. Parágrafo Único - No impedimento do Reitor do IFSP, a presidência do Conselho Superior será exercida pelo seu substituto legal designado na forma da legislação pertinente.",
-                                    "Art 13 - Ao Conselho Superior compete: I - aprovar as diretrizes para atuação do IFSP e zelar pela execução de sua política educacional; II - deflagrar, aprovar as normas e coordenar o processo de consulta à comunidade escolar para escolha do Reitor do IFSP e dos Diretores-Gerais dos campi, em consonância com o estabelecido nos artigos 12 e 13 da Lei nº. 11.892/2008; III - aprovar o Plano de Desenvolvimento Institucional e acompanhamento por meio dos documentos institucionais e apreciar a proposta orçamentária anual; IV - aprovar o projeto político-pedagógico, a organização didática, os regulamentos internos e as normas disciplinares; V - aprovar normas relativas à acreditação e à certificação de competências profissionais, nos termos da legislação vigente; VI - autorizar o Reitor a conferir títulos de mérito acadêmico; VII - apreciar as contas do exercício financeiro e o relatório de gestão anual, emitindo parecer conclusivo sobre a propriedade e regularidade dos registros; VIII - deliberar sobre taxas, emolumentos e contribuições por prestação de serviços em geral a serem cobrados pelo IFSP; IX - autorizar a criação, a alteração curricular e a extinção de cursos no âmbito do IFSP, bem como o registro de diplomas; X - aprovar a estrutura administrativa e o Regimento-Geral do IFSP, observados os parâmetros definidos pelo Governo Federal e pela legislação específica; XI - deliberar sobre questões submetidas à sua apreciação."
-                                ],
-                                "subsecoes": [
-                                    {
-                                        "subsecao_nome": "Subseção I: Da Auditoria Interna",
-                                        "subsecao_artigos": [
-                                            "Art 14 - A Unidade de Auditoria Interna é órgão de assessoramento do Conselho Superior, ao qual está vinculada, nos termos do §3º do artigo 15 do Decreto 3591/2000, responsável por fortalecer e assessorar a gestão, bem como racionalizar as ações do IFSP e prestar apoio, dentro de suas especificidades no âmbito do IFSP, aos órgãos do Sistema de Controle Interno do Poder Executivo Federal e ao Tribunal de Contas da União, respeitada a legislação pertinente. § 1º. A Unidade de Auditoria Interna será dirigida por um auditor-chefe. § 2º. O auditor-chefe do IFSP será substituído, em suas faltas e impedimentos, por um componente da equipe técnica, previamente designado pelo Reitor. Parágrafo único – A organização e o funcionamento da Unidade de Auditoria Interna serão definidos em Regulamento Interno aprovado pelo Conselho Superior"
-                                        ]
-                                    },
-                                    {
-                                        "subsecao_nome": "Subseção II: Do Comitê Técnico-Profissional",
-                                        "subsecao_artigos": [
-                                            "Art 15 - O Comitê Técnico-Profissional é órgão de assessoramento do Conselho Superior, com participação de representantes dos setores produtivos da sociedade, das Pró-Reitorias de ensino, pesquisa e extensão, de professores dos cursos e técnicos administrativos com atuação na área educacional do IFSP, com a finalidade de avaliar a pertinência das propostas de projetos e a oferta de cursos dos campi. Parágrafo único – A organização, a composição, a escolha dos representantes dos setores produtivos da sociedade e o funcionamento do Comitê Técnico-Profissional serão definidos em Regulamento Interno aprovado pelo Conselho Superior."
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "secao_nome": "SEÇÃO II - DO COLÉGIO DE DIRIGENTES",
-                                "secao_artigos": [
-                                    "Art 16 - O Colégio de Dirigentes, de caráter consultivo, é o órgão de apoio ao processo decisório da Reitoria, possuindo a seguinte composição: I - o Reitor, como presidente; II - os Pró-Reitores; III - os Diretores-Gerais dos campi. Parágrafo Único - O Colégio de Dirigentes reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocado por seu presidente ou por dois terços de seus membros.",
-                                    "Art 17 - O Reitor será o presidente nato do Colégio de Dirigentes, a quem caberá, em caso de necessidade, o voto de qualidade. Parágrafo Único - No impedimento do Reitor, a presidência do Colégio de Dirigentes será exercida pelo seu substituto legal designado na forma da legislação pertinente.",
-                                    "Art 18 - Ao Colégio de Dirigentes compete: I - apreciar e recomendar a distribuição interna de recursos; II - apreciar e recomendar as normas para celebração de acordos, convênios e contratos, bem como para elaboração de cartas de intenção ou de documentos equivalentes; III - propor a criação e alteração de funções e órgãos administrativos da estrutura organizacional do IFSP; IV - Apreciar e recomendar o calendário de referência anual; V - apreciar e recomendar normas de aperfeiçoamento da gestão; VI - apreciar os assuntos de interesse da administração do IFSP a ele submetido."
-                                ],
-                                "subsecoes": []
-                            }
-                        ]
+                        {
+                            "secao_nome": "SEÇÃO I - DO CONSELHO SUPERIOR",
+                            "secao_artigos": [
+                                "Art 11 - O Conselho Superior, de caráter consultivo e deliberativo, é o órgão máximo do IFSP, tendo a seguinte composição: I - o Reitor, como presidente; II - representação de um terço do número de campi, destinada aos servidores docentes, sendo o mínimo de dois e o máximo de cinco representantes e igual número de suplentes, eleitos por seus pares, na forma regimental; III - representação de um terço do número de campi, destinada ao corpo discente, sendo o mínimo de dois e o máximo de cinco representantes e igual número de suplentes, eleitos por seus pares, na forma regimental; IV - representação de um terço do número de campi, destinada aos servidores técnico- administrativos, sendo o mínimo de dois e o máximo de cinco representantes e igual número de suplentes, eleitos por seus pares, na forma regimental; V - dois representantes dos discentes egressos do IFSP e igual número de suplentes, indicados por seus pares; VI - seis representantes da sociedade civil e igual número de suplentes, sendo dois indicados por entidades patronais, dois indicados por entidades dos trabalhadores, dois representantes do setor público e/ou de empresas estatais, designados pela Secretaria de Educação Profissional e Tecnológica; VII - um representante e um suplente do Ministério da Educação, designado pela Secretaria de Educação Profissional e Tecnológica; VIII - representação de um terço dos Diretores-Gerais de campi, sendo o mínimo de dois e o máximo de cinco e igual número de suplentes, eleitos por seus pares, na forma regimental. § 1°- Os membros do Conselho Superior (titulares e suplentes), de que tratam os incisos II, III, IV, V e VIII, serão designados por ato do Reitor. § 2º- Os mandatos serão de dois anos, permitida uma recondução para o período imediatamente subsequente, exceto aos membros natos, de que tratam os incisos I e VIII - § 3º- Com relação aos membros de que tratam os incisos II, III e IV, cada campus que compõe o IFSP poderá ter, no máximo, uma representação por categoria. §4º- Serão membros vitalícios do Conselho Superior todos os ex-Reitores do IFSP, sem direito a voto. §5º- Ocorrendo o afastamento definitivo de qualquer membro do Conselho Superior, assumirá o respectivo suplente para a complementação do mandato originalmente estabelecido, realizando-se nova eleição para a escolha de suplentes. §6º- Os membros relacionados nos incisos II a V que se enquadrarem em mais de uma categoria somente poderão se candidatar na categoria mais recente no IFSP. §7°- Os membros relacionados nos incisos II e IV não poderão ocupar, concomitantemente, cargos de confiança da estrutura organizacional do IFSP. §8º- Os procedimentos de trabalho do Conselho Superior serão disciplinados no seu regulamento o qual será aprovado por seus membros. §9º- O Conselho Superior reunir-se-á, ordinariamente, mensalmente e, extraordinariamente, quando convocado por seu Presidente ou por dois terços de seus membros.",
+                                "Art 12 - O Reitor será o presidente nato do Conselho Superior, a quem caberá, em caso de necessidade, o voto de qualidade. Parágrafo Único - No impedimento do Reitor do IFSP, a presidência do Conselho Superior será exercida pelo seu substituto legal designado na forma da legislação pertinente.",
+                                "Art 13 - Ao Conselho Superior compete: I - aprovar as diretrizes para atuação do IFSP e zelar pela execução de sua política educacional; II - deflagrar, aprovar as normas e coordenar o processo de consulta à comunidade escolar para escolha do Reitor do IFSP e dos Diretores-Gerais dos campi, em consonância com o estabelecido nos artigos 12 e 13 da Lei nº. 11.892/2008; III - aprovar o Plano de Desenvolvimento Institucional e acompanhamento por meio dos documentos institucionais e apreciar a proposta orçamentária anual; IV - aprovar o projeto político-pedagógico, a organização didática, os regulamentos internos e as normas disciplinares; V - aprovar normas relativas à acreditação e à certificação de competências profissionais, nos termos da legislação vigente; VI - autorizar o Reitor a conferir títulos de mérito acadêmico; VII - apreciar as contas do exercício financeiro e o relatório de gestão anual, emitindo parecer conclusivo sobre a propriedade e regularidade dos registros; VIII - deliberar sobre taxas, emolumentos e contribuições por prestação de serviços em geral a serem cobrados pelo IFSP; IX - autorizar a criação, a alteração curricular e a extinção de cursos no âmbito do IFSP, bem como o registro de diplomas; X - aprovar a estrutura administrativa e o Regimento-Geral do IFSP, observados os parâmetros definidos pelo Governo Federal e pela legislação específica; XI - deliberar sobre questões submetidas à sua apreciação."
+                            ],
+                            "subsecoes": [
+                                {
+                                    "subsecao_nome": "Subseção I: Da Auditoria Interna",
+                                    "subsecao_artigos": [
+                                        "Art 14 - A Unidade de Auditoria Interna é órgão de assessoramento do Conselho Superior, ao qual está vinculada, nos termos do §3º do artigo 15 do Decreto 3591/2000, responsável por fortalecer e assessorar a gestão, bem como racionalizar as ações do IFSP e prestar apoio, dentro de suas especificidades no âmbito do IFSP, aos órgãos do Sistema de Controle Interno do Poder Executivo Federal e ao Tribunal de Contas da União, respeitada a legislação pertinente. § 1º. A Unidade de Auditoria Interna será dirigida por um auditor-chefe. § 2º. O auditor-chefe do IFSP será substituído, em suas faltas e impedimentos, por um componente da equipe técnica, previamente designado pelo Reitor. Parágrafo único – A organização e o funcionamento da Unidade de Auditoria Interna serão definidos em Regulamento Interno aprovado pelo Conselho Superior"
+                                    ]
+                                },
+                                {
+                                    "subsecao_nome": "Subseção II: Do Comitê Técnico-Profissional",
+                                    "subsecao_artigos": [
+                                        "Art 15 - O Comitê Técnico-Profissional é órgão de assessoramento do Conselho Superior, com participação de representantes dos setores produtivos da sociedade, das Pró-Reitorias de ensino, pesquisa e extensão, de professores dos cursos e técnicos administrativos com atuação na área educacional do IFSP, com a finalidade de avaliar a pertinência das propostas de projetos e a oferta de cursos dos campi. Parágrafo único – A organização, a composição, a escolha dos representantes dos setores produtivos da sociedade e o funcionamento do Comitê Técnico-Profissional serão definidos em Regulamento Interno aprovado pelo Conselho Superior."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "secao_nome": "SEÇÃO II - DO COLÉGIO DE DIRIGENTES",
+                            "secao_artigos": [
+                                "Art 16 - O Colégio de Dirigentes, de caráter consultivo, é o órgão de apoio ao processo decisório da Reitoria, possuindo a seguinte composição: I - o Reitor, como presidente; II - os Pró-Reitores; III - os Diretores-Gerais dos campi. Parágrafo Único - O Colégio de Dirigentes reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocado por seu presidente ou por dois terços de seus membros.",
+                                "Art 17 - O Reitor será o presidente nato do Colégio de Dirigentes, a quem caberá, em caso de necessidade, o voto de qualidade. Parágrafo Único - No impedimento do Reitor, a presidência do Colégio de Dirigentes será exercida pelo seu substituto legal designado na forma da legislação pertinente.",
+                                "Art 18 - Ao Colégio de Dirigentes compete: I - apreciar e recomendar a distribuição interna de recursos; II - apreciar e recomendar as normas para celebração de acordos, convênios e contratos, bem como para elaboração de cartas de intenção ou de documentos equivalentes; III - propor a criação e alteração de funções e órgãos administrativos da estrutura organizacional do IFSP; IV - Apreciar e recomendar o calendário de referência anual; V - apreciar e recomendar normas de aperfeiçoamento da gestão; VI - apreciar os assuntos de interesse da administração do IFSP a ele submetido."
+                            ],
+                            "subsecoes": []
+                        }
                     ]
                 },
                 {
@@ -101,37 +99,35 @@
                         "Art 24 - O IFSP tem administração de forma descentralizada, por meio de gestão delegada, em consonância com os termos do art. 9º da Lei nº. 11.892/2008, conforme disposto no Regimento-Geral. Parágrafo único - Os Diretores-Gerais dos campi respondem solidariamente com o Reitor por seus atos de gestão, no limite da delegação."
                     ],
                     "secoes": [
-                        [
-                            {
-                                "secao_nome": "SEÇÃO I - DO GABINETE",
-                                "secao_artigos": [
-                                    "Art 25 - O Gabinete, dirigido por um chefe nomeado pelo Reitor, é o órgão responsável por organizar, assistir, coordenar, fomentar e articular a ação política e administrativa da Reitoria.",
-                                    "Art 26 - O Gabinete disporá de órgãos de apoio imediato, de Procuradoria Jurídica e de Assessorias Especiais."
-                                ],
-                                "subsecoes": []
-                            },
-                            {
-                                "secao_nome": "SEÇÃO II - DAS PRÓ-REITORIAS",
-                                "secao_artigos": [
-                                    "Art 27 - As Pró-Reitorias, dirigidas por Pró-Reitores nomeados pelo Reitor, são órgãos executivos que planejam, definem, acompanham e avaliam as atividades e as políticas relacionadas às seguintes dimensões: I - À Pró-Reitoria de Ensino compete planejar, definir, acompanhar e avaliar o desenvolvimento das políticas e atividades acadêmicas, buscando o seu constante aprimoramento, em consonância com as diretrizes definidas pelo Ministério da Educação e com as disposições do Conselho Superior. II - À Pró-Reitoria de Extensão compete planejar, definir, acompanhar e avaliar as políticas e as atividades de extensão em suas relações com a sociedade e as empresas, buscando articulá-las ao ensino e à pesquisa, em consonância com as diretrizes definidas pelo Ministério da Educação e com as disposições do Conselho Superior. III - À Pró-Reitoria de Pesquisa, Inovação e Pós-graduação compete planejar, definir, acompanhar e avaliar as políticas e o desenvolvimento das atividades a ela relacionadas, buscando seu fortalecimento em todos os níveis de ensino do IFSP, em consonância com as diretrizes definidas pelo Ministério da Educação e com as disposições do Conselho Superior. IV - À Pró-Reitoria de Administração compete planejar, definir, acompanhar e avaliar as políticas e atividades de execução orçamentária, financeira e patrimonial, buscando o seu constante aprimoramento, em consonância com as diretrizes definidas pelo Ministério da Educação e com as disposições do Conselho Superior. (Alterado pela Resolução n.º 8/2014) V - À Pró-Reitoria de Desenvolvimento Institucional compete planejar, definir, acompanhar e avaliar tanto o desenvolvimento das atividades de gestão de pessoal, quanto o desenvolvimento das políticas definidas pela Reitoria, levantando e analisando os resultados obtidos e buscando o aprimoramento do processo educacional e administrativo, em consonância com as diretrizes definidas pelo Ministério da Educação e disposições do Conselho Superior. (Alterado pela Resolução n.º 8/2014)"
-                                ],
-                                "subsecoes": []
-                            },
-                            {
-                                "secao_nome": "SEÇÃO III - DOS ÓRGÃOS DE APOIO",
-                                "secao_artigos": [
-                                    "Art 28 - Os órgãos de apoio são constituídos por Comissões definidas por Regulamento próprio e/ou legislação vigente, sendo responsáveis pela formulação, acompanhamento e avaliação de políticas de pessoal docente e técnicos administrativos."
-                                ],
-                                "subsecoes": []
-                            },
-                            {
-                                "secao_nome": "SEÇÃO IV - DA PROCURADORIA JURÍDICA",
-                                "secao_artigos": [
-                                    "Art 29 - A Procuradoria Jurídica do IFSP é órgão de execução integrante da Procuradoria-Geral Federal, vinculado à Reitoria e à Procuradoria Federal no Estado de São Paulo, incumbida de prestar assessoramento e consultoria jurídica aos órgãos superiores da Administração do IFSP, com competências e atribuições determinadas pela legislação em vigor."
-                                ],
-                                "subsecoes": []
-                            }
-                        ]
+                        {
+                            "secao_nome": "SEÇÃO I - DO GABINETE",
+                            "secao_artigos": [
+                                "Art 25 - O Gabinete, dirigido por um chefe nomeado pelo Reitor, é o órgão responsável por organizar, assistir, coordenar, fomentar e articular a ação política e administrativa da Reitoria.",
+                                "Art 26 - O Gabinete disporá de órgãos de apoio imediato, de Procuradoria Jurídica e de Assessorias Especiais."
+                            ],
+                            "subsecoes": []
+                        },
+                        {
+                            "secao_nome": "SEÇÃO II - DAS PRÓ-REITORIAS",
+                            "secao_artigos": [
+                                "Art 27 - As Pró-Reitorias, dirigidas por Pró-Reitores nomeados pelo Reitor, são órgãos executivos que planejam, definem, acompanham e avaliam as atividades e as políticas relacionadas às seguintes dimensões: I - À Pró-Reitoria de Ensino compete planejar, definir, acompanhar e avaliar o desenvolvimento das políticas e atividades acadêmicas, buscando o seu constante aprimoramento, em consonância com as diretrizes definidas pelo Ministério da Educação e com as disposições do Conselho Superior. II - À Pró-Reitoria de Extensão compete planejar, definir, acompanhar e avaliar as políticas e as atividades de extensão em suas relações com a sociedade e as empresas, buscando articulá-las ao ensino e à pesquisa, em consonância com as diretrizes definidas pelo Ministério da Educação e com as disposições do Conselho Superior. III - À Pró-Reitoria de Pesquisa, Inovação e Pós-graduação compete planejar, definir, acompanhar e avaliar as políticas e o desenvolvimento das atividades a ela relacionadas, buscando seu fortalecimento em todos os níveis de ensino do IFSP, em consonância com as diretrizes definidas pelo Ministério da Educação e com as disposições do Conselho Superior. IV - À Pró-Reitoria de Administração compete planejar, definir, acompanhar e avaliar as políticas e atividades de execução orçamentária, financeira e patrimonial, buscando o seu constante aprimoramento, em consonância com as diretrizes definidas pelo Ministério da Educação e com as disposições do Conselho Superior. (Alterado pela Resolução n.º 8/2014) V - À Pró-Reitoria de Desenvolvimento Institucional compete planejar, definir, acompanhar e avaliar tanto o desenvolvimento das atividades de gestão de pessoal, quanto o desenvolvimento das políticas definidas pela Reitoria, levantando e analisando os resultados obtidos e buscando o aprimoramento do processo educacional e administrativo, em consonância com as diretrizes definidas pelo Ministério da Educação e disposições do Conselho Superior. (Alterado pela Resolução n.º 8/2014)"
+                            ],
+                            "subsecoes": []
+                        },
+                        {
+                            "secao_nome": "SEÇÃO III - DOS ÓRGÃOS DE APOIO",
+                            "secao_artigos": [
+                                "Art 28 - Os órgãos de apoio são constituídos por Comissões definidas por Regulamento próprio e/ou legislação vigente, sendo responsáveis pela formulação, acompanhamento e avaliação de políticas de pessoal docente e técnicos administrativos."
+                            ],
+                            "subsecoes": []
+                        },
+                        {
+                            "secao_nome": "SEÇÃO IV - DA PROCURADORIA JURÍDICA",
+                            "secao_artigos": [
+                                "Art 29 - A Procuradoria Jurídica do IFSP é órgão de execução integrante da Procuradoria-Geral Federal, vinculado à Reitoria e à Procuradoria Federal no Estado de São Paulo, incumbida de prestar assessoramento e consultoria jurídica aos órgãos superiores da Administração do IFSP, com competências e atribuições determinadas pela legislação em vigor."
+                            ],
+                            "subsecoes": []
+                        }
                     ]
                 },
                 {
@@ -213,7 +209,7 @@
         {
             "titulo_nome": "TÍTULO V - DOS DIPLOMAS, CERTIFICADOS E TÍTULOS.",
             "titulo_artigos": [
-                "Art 44 - O IFSP expedirá e registrará seus diplomas em conformidade com o §3º do art 2º da Lei nº 11.892/2008 e emitirá certificados a alunos concluintes de cursos e programas.",
+                "Art 44 - O IFSP expedirá e registrará seus diplomas em conformidade com o §3º do Art 2º da Lei nº 11.892/2008 e emitirá certificados a alunos concluintes de cursos e programas.",
                 "Art 45 - No âmbito de sua atuação, o IFSP funciona como instituição acreditadora e certificadora de competências profissionais, nos termos da legislação vigente.",
                 "Art 46 - O IFSP poderá conferir títulos de Mérito Acadêmico, conforme disciplinado no Regimento-Geral."
             ],
